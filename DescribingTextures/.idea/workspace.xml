@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b739b313-791f-46c5-abdf-98aa5376c0fa" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29c6hx5xYVRehNa6xZ9ZFZv2JvT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
+    &quot;credentialsType com.jetbrains.python.remote.PyCreateRemoteInterpreterDialog$PyCreateRemoteSdkForm&quot;: &quot;Web Deployment&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/marti/OneDrive/Bureau/Polito/DescribingTextures&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="DescribingTextures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DescribingTextures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\marti\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b739b313-791f-46c5-abdf-98aa5376c0fa" name="Changes" comment="" />
+      <created>1653400150534</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653400150534</updated>
+      <workItem from="1653404807758" duration="4549000" />
+      <workItem from="1653573145943" duration="439000" />
+      <workItem from="1653573601959" duration="167000" />
+      <workItem from="1653573780411" duration="3602000" />
+      <workItem from="1653781267336" duration="429000" />
+      <workItem from="1653781714808" duration="1840000" />
+      <workItem from="1653897791954" duration="45000" />
+      <workItem from="1653897849010" duration="7396000" />
+      <workItem from="1653945968461" duration="15661000" />
+      <workItem from="1654462342807" duration="785000" />
+      <workItem from="1654504322267" duration="141000" />
+      <workItem from="1654605330342" duration="11031000" />
+      <workItem from="1654705935449" duration="599000" />
+      <workItem from="1654714252533" duration="1469000" />
+      <workItem from="1654726087125" duration="10000" />
+      <workItem from="1654815625296" duration="150000" />
+      <workItem from="1654815785806" duration="714000" />
+      <workItem from="1654820127945" duration="267000" />
+      <workItem from="1654820430062" duration="710000" />
+      <workItem from="1654853805727" duration="4884000" />
+      <workItem from="1654867856403" duration="6304000" />
+      <workItem from="1654949981674" duration="2570000" />
+      <workItem from="1655065839904" duration="24358000" />
+      <workItem from="1655548754936" duration="161000" />
+      <workItem from="1655548931338" duration="1314000" />
+      <workItem from="1655635536813" duration="1707000" />
+      <workItem from="1655678242515" duration="1974000" />
+      <workItem from="1655768724826" duration="180000" />
+      <workItem from="1655823094658" duration="277000" />
+      <workItem from="1655823384527" duration="1920000" />
+      <workItem from="1655831681792" duration="597000" />
+      <workItem from="1655892813673" duration="201000" />
+      <workItem from="1656087526561" duration="3468000" />
+      <workItem from="1656203996025" duration="804000" />
+      <workItem from="1656258880051" duration="1894000" />
+      <workItem from="1658217092002" duration="626000" />
+      <workItem from="1658603660128" duration="2597000" />
+      <workItem from="1658679772051" duration="1268000" />
+      <workItem from="1658696840931" duration="422000" />
+      <workItem from="1658697276539" duration="16389000" />
+      <workItem from="1658848491457" duration="755000" />
+      <workItem from="1658866324918" duration="618000" />
+      <workItem from="1659138812310" duration="2494000" />
+      <workItem from="1659141930955" duration="2075000" />
+      <workItem from="1659144030470" duration="8712000" />
+      <workItem from="1659221581980" duration="3177000" />
+      <workItem from="1659432594864" duration="3356000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/triplet_match/model.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

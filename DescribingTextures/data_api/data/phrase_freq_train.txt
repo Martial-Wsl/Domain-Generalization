@@ -1,0 +1,3018 @@
+single instance : 2919
+without text : 2831
+without texture : 2575
+medium saturation : 1231
+unrealistic : 1109
+black and white : 797
+low-level details : 773
+monochrome white : 705
+realistic : 681
+high saturation : 640
+with perspective, realistic : 591
+white background : 579
+mid level details : 474
+high level details : 470
+painting strokes : 384
+low level details : 372
+colorful : 361
+mid saturation : 338
+precise lines : 338
+colorful, skin shades : 310
+without perspective : 280
+mid-level details : 277
+high-level details : 240
+low saturation : 218
+gray scale : 212
+unrealistic perspective : 205
+low-level of details : 197
+definite : 196
+high color saturation : 169
+realistic perspective : 165
+multiple instances : 163
+neat strokes : 160
+medium saturation, light reflections : 157
+mid color saturation : 156
+brown shades : 141
+two instances : 140
+definite edges : 139
+precise : 138
+solid yet trembling black lines : 101
+brush strokes : 99
+clear and crisp : 99
+without perspective, unrealistic : 98
+with perspective : 96
+mid-level of details : 96
+high saturation, light reflections : 92
+colorful, contrasting : 91
+sparse text : 90
+solid lines : 87
+single color, white : 86
+high-level of details : 78
+neat edges : 74
+intense : 67
+solid line edges : 60
+thin edges : 54
+low-level, grainy details : 54
+bland colors : 52
+soft lines : 50
+sharp lines : 45
+shallow : 45
+trembling lines : 43
+dense text : 43
+yellow and brown shades : 42
+medium-level details : 40
+grayscale : 40
+neat imprecise lines : 40
+neat brush strokes : 38
+trembling lines, definite, visable pixels : 38
+brown and white shades : 37
+undefinite edges : 37
+solid line edges, black lines, thick lines : 37
+plain, white : 37
+trembling brush strokes : 37
+white monochrome : 36
+marked lines : 36
+low color saturation : 35
+neat strong edges : 34
+with perspective, unrealistic : 31
+colorful background : 30
+neat lines : 30
+blurry edges : 29
+medium level details : 26
+with text : 24
+low-level detail : 24
+solid line edges, curved lines, black lines : 24
+detailed, sharp, precise lines : 24
+blue shades : 23
+solid line edges, thin lines : 23
+painting, brush strokes : 23
+irregular lines : 23
+brown : 22
+black white : 22
+painting texture : 22
+low-level saturation : 21
+precise brush strokes : 21
+yellow and brown : 20
+very low-level details : 20
+black shades : 19
+precise edges : 18
+uniform color : 18
+polychromatic : 17
+low level of details : 17
+mid level of details : 17
+painting, pencil strokes : 17
+definite, precise lines, smooth : 17
+scattered : 16
+brown and black shades : 16
+precise lines, sharp : 16
+sparse : 16
+vivid colors saturation : 16
+solid yet trembling lines : 16
+trembling lines, definite : 15
+text in the center : 15
+solid black lines : 15
+solid bold lines : 15
+very definite : 14
+low-level, delineated details : 14
+light, irregular lines : 14
+colorful color shades : 14
+trembling imprecise lines : 14
+monochrome black : 13
+gray scale, brownish : 13
+medium-level saturation : 13
+yellow shades : 13
+thin neat edges : 13
+white dominance : 13
+light reflections saturation : 13
+brownish : 12
+sharp : 12
+several instances : 12
+brown and yellow shades : 12
+texted : 12
+light lines : 12
+mixed-colored background : 12
+high details : 11
+sharp lines, definite : 11
+dark tones : 11
+discrete text in bottom : 11
+solid edges : 11
+white and brown shades : 11
+brown dominance : 11
+precise lines, definite, detailed : 11
+relevant text : 11
+multi-colored : 11
+definite brush strokes : 11
+monochrome white background : 11
+precise, solid lines : 11
+watermark : 10
+medium saturation, dull colors : 10
+green and blue shades : 10
+text in bottom : 10
+sparse texts : 10
+definite, precise lines, distinct : 10
+grainy, precise lines, sharp : 10
+distinct, sharp : 10
+signature text : 10
+white : 9
+sharp lines, definite, visable pixels : 9
+yellow dominance : 9
+gray scale with pink tips : 9
+gray background : 9
+green and blue dominance : 9
+multicolor : 9
+neat-strokes : 9
+monochrome grey background : 9
+undefinite brush strokes : 9
+soft blurry lines : 9
+high saturation, vivid colors : 8
+creamy shades : 8
+high-level saturation : 8
+brown and white : 8
+fading text in center : 8
+solid, bold lines : 8
+without perspective, realistic : 8
+sharp, definite lines : 8
+colorful, vivid colors : 8
+bland colors, skin shades : 8
+defined edges : 8
+yellow and black shades : 8
+solid line edges, curved lines, black : 8
+discrete text in center : 8
+strong edges : 8
+thick edges : 8
+black and white shades : 8
+well defined edges : 8
+definite, precise lines, sharp : 8
+painting, soft : 8
+creamy and brown shades : 8
+low details : 7
+definite, precise lines : 7
+solid lines, seperated by color : 7
+signature : 7
+brown color : 7
+brown and creamy shades : 7
+blue, cloudy sky : 7
+none background : 7
+partly realistic : 7
+blurred, imprecise, uneven : 7
+landscape, green : 7
+precise lines, interiors : 7
+pink shades : 7
+white/grey-colored background : 7
+irregular, overlapping lines : 7
+soft black lines : 7
+white with shades of grey : 7
+imprecise lines : 7
+definite strokes, solid lines : 6
+colored : 6
+medium saturation, vivid colors : 6
+solid, trembling lines : 6
+solid, precise lines : 6
+green grass : 6
+many instances : 6
+light gray scale : 6
+white and brown : 6
+blue dominance : 6
+text all over : 6
+very high saturation : 6
+white wall : 6
+mixed colors : 6
+vivid colors : 6
+dense text in bottom : 6
+green : 6
+inaccurate edges : 6
+painting, smooth : 6
+blue : 6
+green and blue : 6
+watermark text : 6
+precise, neat brush strokes : 6
+green-colored background : 6
+definite lines : 6
+marked, irregular lines : 6
+precise thick lines : 6
+low saturation, light reflections : 5
+solid, definite lines : 5
+white and gray scale : 5
+solid, smooth lines : 5
+discrete text in right bottom corner : 5
+solid lines, visable pixels : 5
+high level of details : 5
+red and white shades : 5
+blurry lines, seperated by color : 5
+blurry lines : 5
+high saturation, vibrant colors : 5
+yellow and brown colors : 5
+yellow and orange shades : 5
+text in center : 5
+white shades : 5
+printing texture : 5
+gray and brown shades : 5
+light blue : 5
+very low-level detail : 5
+solid line edges, curved lines, black lines, thick lines : 5
+solid line edges, black lines, thick lines, smooth : 5
+solid lines edges : 5
+detailed, precise lines : 5
+intense saturation rich harmonious : 5
+black dominance : 5
+mid-level, delineated, representational details : 5
+marked irregular lines : 5
+sharp, distinct, precise : 5
+no background : 5
+medium saturation with light reflections : 5
+neat stroks : 5
+precise, dense lines : 5
+soft trembling lines : 5
+neat trembling lines : 5
+colorful, brownish : 4
+dark gray scale : 4
+intense, solid yet trembling lines : 4
+black : 4
+fading text in the center : 4
+green shades : 4
+discrete white text : 4
+blue sky : 4
+gray and white shades : 4
+mid color saturation, light reflections : 4
+solid lines, defintie, visable pixels : 4
+green and brown : 4
+blue and white : 4
+white with shades of gray : 4
+gray : 4
+sharp, definite lines seperated by color : 4
+blue background : 4
+gray scale, pink tips : 4
+black monochrome : 4
+orange and brown shades : 4
+pink dominance : 4
+not very definite : 4
+totally white : 4
+brown and gray shades : 4
+white and black : 4
+brown shades, shadows : 4
+dark brown shades : 4
+brown and black colors : 4
+ : 4
+ level details details : 4
+off-white : 4
+gray scale, white dominance : 4
+gray scale, white : 4
+shadows, skin shades : 4
+discrete white text in center : 4
+green and blue background : 4
+painting, soft, smooth : 4
+detailed, precise lines, blurred : 4
+multiple color, changing : 4
+detailed, precise lines, uneven : 4
+definite, blurred, uneven : 4
+landscape, natural, green, light blue : 4
+compressed : 4
+soft, uneven, irregular : 4
+plane, white, interiors : 4
+brown shades with black elements : 4
+green-colored : 4
+dark gray : 4
+distinct, imprecise : 4
+distinct : 4
+distinct, irregular : 4
+yellow : 4
+colorful, white dominance : 4
+white-colored : 4
+brown and yellow : 4
+orange : 4
+colorful, green dominance : 4
+brown and black : 4
+unprecise brush strokes : 4
+definite, neat brush strokes : 4
+gray scale, skin shades : 4
+yellow/green-colored background : 4
+green/white-colored background : 4
+green/blue-colored background : 4
+white/green-colored background : 4
+precise, dense, solid lines : 4
+marked, clean lines : 4
+solid bold black lines : 4
+oil painting : 4
+imprecise brush strokes, trembling lines : 3
+low saturation, bland colors : 3
+dark shades : 3
+greyscale : 3
+intense, solid, precise lines : 3
+gray scale with white tips : 3
+three instances : 3
+four instances : 3
+fading text : 3
+thick, solid, trembling lines : 3
+medium saturation, muted colors : 3
+low saturation, muted colors : 3
+colorful, gray scale : 3
+big watermark all over picture : 3
+blue and white shades : 3
+shades of brown : 3
+vertical lines : 3
+dark brown with black elements : 3
+shades of green : 3
+with text, watermark : 3
+colorful, creamy shades : 3
+high color saturation, vivid color : 3
+squared windows : 3
+solid lines, seperated by light : 3
+9 : 3
+blue with shades of white : 3
+3 : 3
+white strokes : 3
+low saturation, : 3
+text on the bottom : 3
+green dominance : 3
+green background : 3
+yellow and red : 3
+not precise : 3
+very definite edges : 3
+black and skin shades : 3
+white dominance, gray scale : 3
+skin shades : 3
+red dominance : 3
+white and grey : 3
+cloudy sky : 3
+white and gray shades : 3
+green vegetation : 3
+black and white dominance : 3
+black background : 3
+very very low-level detail : 3
+mid-level detail : 3
+solid line edges, curved lines, black lines, thin lines : 3
+very very low-level details : 3
+solid line edges, black lines, thin lines : 3
+brownish, gray scale : 3
+blue and green : 3
+gray scale, black edges : 3
+colorful, dark tones : 3
+undefined edges : 3
+colorful, spring environment : 3
+colorful, bland colors : 3
+black dominance, white tips : 3
+brownish, bland colors : 3
+bland colors, gray scale : 3
+diagonal lines : 3
+green trees : 3
+brown shades, black elements : 3
+definite, irregular, blurred : 3
+detailed, delineated : 3
+painting, soft, frosted : 3
+definite, detailed, precise lines : 3
+multiple color, rich, detailed : 3
+detailed, imprecise, uneven, precise lines : 3
+detailed, precise lines, distinct : 3
+multiple color, blended, graduated : 3
+multiple color, colorful, blended : 3
+multiple color, rich, changing : 3
+single color, white, grey : 3
+blurred, precise lines, even : 3
+gray scale, brown shades : 3
+colorful, precise lines, interiors : 3
+landscape, natural, green : 3
+multiple color, colorful, green : 3
+single instances : 3
+gray sky, green : 3
+grainy, sharp, precise lines : 3
+gray scale, creamy shades : 3
+landscape, natural, green, blue sky : 3
+dense : 3
+mid-level, delineated, detailed : 3
+orange and white shades : 3
+purple : 3
+purple dominance : 3
+vivid saturation cold : 3
+light irregular lines : 3
+distinct, trembling, imprecise : 3
+distinct, precise : 3
+red-colored : 3
+black-colored : 3
+red : 3
+yellow-colored : 3
+intense, solid lines : 3
+gray-colored : 3
+green and white : 3
+painting stroke : 3
+orange shades : 3
+high saturation with light reflections : 3
+clear sky : 3
+monochrome black background : 3
+cream-colored background : 3
+neat, definite brush strokes : 3
+blue/green-colored background : 3
+precise, definite brush strokes : 3
+white/brown-colored background : 3
+white-colored background : 3
+brown/green-colored background : 3
+clean lines : 3
+green grass and blue sky background : 3
+grayscale color shades : 3
+soft yet precise lines : 3
+soft but precise lines : 3
+intense white lines : 3
+gray scale, blue shades : 3
+white colored : 3
+brown colored : 3
+colorful, green and spring colors : 2
+colored with white center : 2
+colored, bland colors : 2
+with text, sparse, fading text : 2
+trembling brush strokes, jagged, blurred, fading : 2
+with texture, horizontal lines : 2
+trembling, jagged brush strokes : 2
+light colors : 2
+cream shades : 2
+definite, solid, fine lines : 2
+definite, solid lines, visible pixels : 2
+colorful, brown : 2
+blade of grass : 2
+no single instance : 2
+solid lines, delicate stroke : 2
+definite, strong lines, solid lines : 2
+colorful, blue color shades : 2
+delicate edges, solid lines : 2
+fading text, watermark : 2
+solid, intense lines : 2
+solid lines, definite stroke : 2
+colorful, gray shades : 2
+colorful, yellow with brown patches : 2
+brown stains : 2
+smooth lines, definite, solid edge : 2
+soft lines, solid lines : 2
+soft, smooth, solid lines : 2
+orange and red : 2
+shades of green and blue : 2
+scattered lines : 2
+monochromatic white : 2
+distorted perspective : 2
+yellow and gray : 2
+brown and black elements : 2
+brown and black element : 2
+white background with gray shadow : 2
+polychromatic with domination of green : 2
+brown color shades : 2
+polychromatic with domination of blue shades : 2
+high color saturation, vivid colors : 2
+solid, sharp lines : 2
+colorful, yellow and brown : 2
+solid lines, unconnected, visable pixels : 2
+solid lines, jagged, crossing lines, visable pixels : 2
+realistic proportions : 2
+solid lines, definite : 2
+solid lines, definite, seperated by colors : 2
+colorful, shades of pink and brown : 2
+brown and gray scale : 2
+faded signature : 2
+horizontal colored bands : 2
+many colors : 2
+brown with shades of black : 2
+brownish shades : 2
+black shades with white element : 2
+low saturation, dull colors : 2
+sharp, definite lines   : 2
+medium saturation, few colors : 2
+monochrome gray : 2
+yellow background : 2
+low-level level details : 2
+binary image saturation, : 2
+without colors : 2
+high saturation, : 2
+text in right side : 2
+dark, various colors : 2
+colorful, various colors : 2
+in background : 2
+brown and red shades : 2
+text in the middle : 2
+yellow and orange colors : 2
+white and red colors : 2
+solid line edges, bold lines : 2
+blurry background : 2
+yellow and orange dominance : 2
+indefinite : 2
+weak edges : 2
+gray scale, sandy : 2
+sandy shades : 2
+in bottom left of the image : 2
+colorful, mixed colors : 2
+undefinite : 2
+rough painting texture : 2
+black and yellow colors : 2
+carton-like painting : 2
+black and gray shades : 2
+blue and green sky : 2
+brown shades, gray scale : 2
+red and blue : 2
+undefinite grey : 2
+single instanc : 2
+bottom right of the image : 2
+blue cloudy sky : 2
+undefinite green : 2
+green and yellow grass : 2
+brown and blue dominance : 2
+green and brown nature : 2
+orange dominance : 2
+grey house indoor : 2
+gray scale, white color : 2
+text in background : 2
+gray wall : 2
+undefinite wall : 2
+blue monochrome : 2
+undefinite, multicolor wall : 2
+solid line edges, black : 2
+blurry strokes edges : 2
+edges disappearing in the background : 2
+dark green background : 2
+skin shades dominance : 2
+dark colors, brownish : 2
+blue shades, black edges : 2
+strongly defined edges : 2
+gray monochrome : 2
+yellow shades and black elements : 2
+unprecise : 2
+cream colored : 2
+dark tones, black : 2
+brown and white dominance : 2
+colorful, contrasting, vivid colors : 2
+neat thin edges : 2
+trembling edges : 2
+strong neat edges : 2
+greenish : 2
+black and white shades, orange element : 2
+black shades, brownish : 2
+dark tones, bland colors : 2
+dark blue, green : 2
+green and yellow dominance : 2
+green and brown shades : 2
+blue and brown shades : 2
+red and black shades : 2
+black and red shades : 2
+black shades, gray : 2
+dense text in bottom, sparse text in center : 2
+green circle : 2
+brown and yellow colors : 2
+blue and gray shades : 2
+sandy and black shades : 2
+brown and white shades, black elements : 2
+red shades : 2
+vivid pink colors : 2
+straight lines : 2
+vivid yellow colors : 2
+vivid yellow and brown colors : 2
+vivid brown colors : 2
+flickering edges : 2
+definite, distinct, blurred : 2
+delineated, grainy level details details : 2
+harmonious saturation vivid natural : 2
+painting, uneven, soft : 2
+definite, blurred, distinct : 2
+definite, distinct, uneven : 2
+detailed, blurred, uneven : 2
+intense saturation contrasting bright : 2
+colorful, complementary, intense : 2
+definite, precise lines, blurred : 2
+painting, hard : 2
+multiple color, rich, colorful : 2
+photo texture, flat : 2
+multiple color, rich, detailed, blended : 2
+painting, brush strokes, hard : 2
+intense saturation rich inspid : 2
+multiple color, changing, smooth, blended : 2
+precise lines, definite, distinct : 2
+multiple color, blended, smooth : 2
+detailed, uneven, blurred : 2
+multiple color, graduated : 2
+definite, imprecise, blurred : 2
+brown shades, yellow tips : 2
+single color, grey, white : 2
+colorful, joyful : 2
+multiple instance : 2
+precise lines, irregular, definite : 2
+sharp, precise lines : 2
+blur lines, smooth : 2
+regular, white, shadow, interiors : 2
+green, changing, smooth : 2
+brown, muddy : 2
+green, landscape, neat shapes, natural : 2
+landscape, brown, muddy : 2
+landscape, natural, green, gray : 2
+black dominance, brown tips : 2
+black dominance, brown shades : 2
+precise  lines, definite, detailed : 2
+light blue, green : 2
+plain, black : 2
+gray scale, white tips : 2
+cartoon : 2
+low-level. delineated details : 2
+low-level, delineated, grainy details : 2
+creamy shades, black element : 2
+wave lines : 2
+mid-level, detailed, delineated : 2
+cream-colored : 2
+white with a purple circle : 2
+light blue, white : 2
+distinct, imprecise, irregular : 2
+imprecise, irregular : 2
+distinct, marked : 2
+blue-colored : 2
+blue and yellow : 2
+bland colors, brown : 2
+beige, sandy shades : 2
+red and white : 2
+colorful with blue dominance : 2
+discrete text right bottom : 2
+snow flakes : 2
+mustard : 2
+brown and blue shades : 2
+white and green : 2
+creamy shades, sandy : 2
+text on the right : 2
+white dominance with brown and black elements : 2
+bland color : 2
+beige and brown shades : 2
+dark brown : 2
+white and yellow : 2
+cream-colored wall : 2
+colorful, brown shades : 2
+gray scale with golden spots : 2
+black and brown shades : 2
+light-green colored wall with window : 2
+wooden wall : 2
+brown shades, yellow : 2
+cream-colored with gray shades : 2
+green colored bushes : 2
+sky : 2
+brown and white colored : 2
+" : 2
+off white : 2
+blue/white-colored background : 2
+monochrome white, mixed-colored points background : 2
+colored background : 2
+monochrome blue background : 2
+monochrome brown background : 2
+brown, white and black : 2
+white/blue-colored background : 2
+grey/green-colored background : 2
+black dominance, brownish : 2
+2 : 2
+green/brown-colored background : 2
+green/grey-colored background : 2
+brown-colored background : 2
+light reflections : 2
+precise, definite, solid lines : 2
+yellow/green/blue-colored background : 2
+solid, dense lines : 2
+precise, definite lines : 2
+marked, disconnected lines : 2
+brown shades, white tips : 2
+light blue sky background : 2
+high color saturation, reflections : 2
+mid color saturation, reflections : 2
+brown shades, black element : 2
+solid precise lines : 2
+sparse text in center : 2
+shades of gray : 2
+soft and trembling lines : 2
+dense texts : 2
+brown shades dominance : 2
+white and brown colors : 2
+gray scale and pink tips : 2
+white with some shades of gray : 2
+red and black dominance : 2
+gray scale, black and white : 2
+black color : 2
+black shades, gray scale : 2
+trees and white sky : 2
+white sky : 2
+pale blue sky : 2
+office : 2
+no four : 2
+intense black lines : 2
+three : 2
+green-colored with shades of white : 2
+two : 2
+hand drawing : 2
+mid-level level details : 2
+green monochrome : 2
+blue and white colored on the upper zone, green and gray colored on the lower zone : 2
+white and blue colored on the upper zone, green colored on the lower zone : 2
+green and brown colored : 2
+gray and green colored : 2
+high level details details : 2
+gray colored on the lower zone, green colored on the upper zone : 2
+gray colored : 2
+imprecise trembling lines : 2
+light gray with pink tips : 1
+monochrome yellowish : 1
+medium color saturation, vivid colors, light reflections : 1
+colorful, autumnal shades : 1
+light blue, with white reflections : 1
+definite, precise, neat, intense, solid lines : 1
+colorful, purple and orange shades : 1
+colorful, light blue and yellowish light beams : 1
+with texture, light beams : 1
+visible single brush strokes, trembling lines : 1
+low with light reflections : 1
+faintly colored : 1
+dark tones with precise white lines : 1
+with texture, floor tiles : 1
+jagged lines, visible single brush strokes : 1
+jagged lines, blurred : 1
+colorful, beige and black shades : 1
+precise brush strokes, trembling lines : 1
+high saturation, contrasting : 1
+with text, sparse text : 1
+colorful, autumnal colors : 1
+cold colors with dominance of green : 1
+red with brightness : 1
+coloful, faded color : 1
+definite strokes, faded : 1
+medium saturation, vivid colors, light reflections : 1
+white, some colorful spots : 1
+jagged, blurred, trembling lines, fading : 1
+mainly cream shades, gray and black : 1
+cream colored with gray reflections, dim : 1
+solid, neat strokes : 1
+black and gray with single color spot : 1
+jagged, trembling lines : 1
+neutral color : 1
+background is in first plan, colorful, messy : 1
+many objects : 1
+pixel, trembling lines, jagged : 1
+low : 1
+basic color : 1
+black, with color spot at the bottom : 1
+cream-white color : 1
+white with shades of gray, with visible white frame : 1
+black-white with a few brown spots : 1
+white with shades of gray and cream : 1
+autumnal shades, gloomy : 1
+mainly dark, with light spot : 1
+jagged, blurred, trembling lines, fading, imprecise brush strokes : 1
+faded shades, gloomy, sad : 1
+muted color, definite color sections : 1
+mid saturation, vivid colors : 1
+colorful, realistic scene : 1
+solid, definite strokes : 1
+colorful, visible cut-offs of sand and teal : 1
+faded colors with white line across the picture : 1
+fading, blurred, brush strokes : 1
+medium saturation, contrasting colors : 1
+contrasting colors : 1
+definite, precise, neat, solid, lines : 1
+white with color spot on center : 1
+sparse, fading text : 1
+with texture, bones : 1
+monochrome white, round shape on center : 1
+mostly gray and cream : 1
+definite, blurred lines : 1
+white with few colored spots : 1
+definite, precise, neat strokes, solid lines : 1
+white with light blue corners : 1
+intense, solid, trembling lines : 1
+mostly white with tips of brown and blue : 1
+mostly black and white with color spot : 1
+definite, neat strokes : 1
+colorful mainly gold color : 1
+colorful, warm color : 1
+solid, intense, precise lines : 1
+information text, half visible : 1
+intense color, cream shades : 1
+white with intense color signs : 1
+cream and gray shades : 1
+pastel and contrasting colors : 1
+monocrhome gray but blueish : 1
+two texts, fading and solid : 1
+precise lines, fading : 1
+colorful but dominance of brown : 1
+white and green shape : 1
+cream-brown shades : 1
+white with color spot : 1
+definite, intense, solid, neat strokes : 1
+definite, solid, trembling, fine lines : 1
+realstic : 1
+solid, trembling lines, visible pixels : 1
+solid, definite, intense lines, visible pixels : 1
+intense, solid, lines : 1
+solid, intense, definite lines : 1
+definite, intense lines : 1
+solid lines, visible pixels : 1
+trembling, solid lines, visible pixels : 1
+intense, solid lines, visible pixels : 1
+trembling, intense lines : 1
+colorful, blueish in center : 1
+white and gray tips : 1
+colorful, humans : 1
+colorful, spring colors : 1
+colorful, spring environment, river, forest, water : 1
+clear, sharped : 1
+creamy colors, brownish : 1
+grassland : 1
+brown, cloudy sky, ground : 1
+whithout text : 1
+low saturation, blurred : 1
+mountains, sky, man, cars : 1
+grass, stones : 1
+gray scale with white dots : 1
+white dots : 1
+gray scale and colorful spots : 1
+black with white tips  : 1
+brown pillow, contrasting : 1
+white and brown spots : 1
+spring environment, green and brown grass : 1
+autumnal colors : 1
+dark monochrome : 1
+grass : 1
+creamy colors : 1
+contrasting, grass and barriers : 1
+barrier bars : 1
+colorful and bright : 1
+gray scale, green tips : 1
+green environment, grass : 1
+high-level : 1
+green environment, nature : 1
+gray scale, bright : 1
+savannah colors, yellow : 1
+branches, blades of grass : 1
+leafs : 1
+spring environment, green grass : 1
+polychromatic, contrasting, brown and green : 1
+barriers : 1
+high saturation, muted colors : 1
+blurry, blue and green : 1
+branches of tree : 1
+cloudy pattern : 1
+bold, definite, solid, precise edges : 1
+uniform color, cream shade : 1
+precise edges, delicate stroke : 1
+colorful, gray color with pink elements : 1
+mainly white background with colorful, round ball : 1
+un realistic : 1
+colorful, gray color shades, pink and orange color : 1
+colorful, blue and pink : 1
+intense lines, bold lines : 1
+fading text at the bottom : 1
+gray scale color with reflections : 1
+soft edges, delicate lines, solid lines : 1
+small watermarks all over image : 1
+text repeated : 1
+solid lines, definite lines : 1
+gray color shades : 1
+solid lines, thin lines : 1
+blue color, pastel shade : 1
+with text, fading text, watersign : 1
+gray color shades, pink elements : 1
+with text, watersign : 1
+solid lines, bold lines, definite stroke : 1
+brown color shades with pink : 1
+solid lines, bold and thin lines : 1
+blue color shades with light reflections : 1
+colorful, mostly blue shades with white and red elements : 1
+solid lines, definite lines, bold lines : 1
+colorful, light violet shades with blue water drops : 1
+colorful, contrasting, light reflections : 1
+white background with yellow in center : 1
+bold fading text, watermark on all the picture : 1
+solid edges, smooth edges : 1
+colorful, shades of yellow and brown : 1
+sharp edges, definite lines : 1
+blurred lines, not sharp edges : 1
+with text on the bottom of picture : 1
+distorted perspective, unrealistic : 1
+colorful, yellow with brown patches, colorful dots : 1
+colorful, mainly yellowish shades : 1
+intensive orange color with lighter dots, white square : 1
+watermark and signature : 1
+yellow hexagons : 1
+colorful, yellow, brown, blue and red : 1
+colorful text on right side of picture : 1
+colorful, intense yellow and dark brown : 1
+brown color with darker brown dots : 1
+colorful, light yellow with black patches : 1
+white background with colorful elements : 1
+big text, black, yellow colors : 1
+yellow with brown patches : 1
+half white, half mint : 1
+solid, precise lines, soft stroke : 1
+mainly black with brown element and white tips : 1
+creamy brown shades : 1
+six instances : 1
+gray scale and brownish tips : 1
+white with colorful patch : 1
+colorful, blue shades : 1
+polychromatic with warm colors : 1
+colorful, bunch of colors : 1
+warm colors, sunset colors : 1
+gray scale, light reflections : 1
+dark gray in the up, violet and white in the bottom : 1
+colorful, earthy : 1
+polychromatic, nature, green dominance : 1
+leafs of tree : 1
+shades of blue : 1
+shades of  blue and white : 1
+white and blue shades : 1
+white and orange patches : 1
+black with red details : 1
+colorful, dominance brownish : 1
+one half is monochromatic yellow, second half is monochromatic black : 1
+shades of orange with black patches : 1
+white with blue patches : 1
+colored blue patches : 1
+yellow dots and flowers : 1
+contrasting red, blue and green : 1
+monochromatic violet : 1
+warm colors, fire atmosphere : 1
+dark blue with white patches : 1
+colorful, black and white dominance : 1
+green and black shades : 1
+black shapes in texture : 1
+polychromatic, spring environment : 1
+colorful, brown shades with light spot : 1
+bold lines, intens edge : 1
+colorful, red : 1
+without perspetive : 1
+gray and white scales with nature in the top : 1
+colorful, red with brown : 1
+solid soft lines : 1
+browny grass and green vegetation : 1
+blades of grass : 1
+dominance of white with black elements : 1
+monochromatic black : 1
+red and gray shades : 1
+white with big yellow dot in the center : 1
+watermark in the center : 1
+burgundy : 1
+brown with black elements : 1
+white with black elements : 1
+white saturation : 1
+browny shades : 1
+solid strokes, sharp lines : 1
+brown with cream shade element : 1
+white with gray shadow : 1
+dark shades with black : 1
+brownish and dark background : 1
+smooth, solid, delicate lines : 1
+white with gray shadow around instance : 1
+gray shades : 1
+horinzontal barriers : 1
+dark and black shades : 1
+spring environment, green and white dominance : 1
+brow shades with white element : 1
+gray on the top, dark floor on the bottom : 1
+tree in the back : 1
+autumnal environment : 1
+gray scale with red in left part : 1
+shades of white : 1
+brown dominance with blond element : 1
+soft lines, smooth edges : 1
+shades of brown and cream with gray and red : 1
+with watermarks all over the picture : 1
+shades of brown with cream, light reflections : 1
+brown, cream and black : 1
+with text, fading text, watermark : 1
+solid lines, definite stokes : 1
+high color saturation, vivid colors, light reflections : 1
+watermark all over the picture : 1
+definite, solid lines, visable pixels : 1
+solid lines, intense, visable pixels : 1
+brown shades and dark roof : 1
+polychromatic with bright colors : 1
+triangles in the top : 1
+solid lines, uneven edges : 1
+colorful, orange, brown and red : 1
+dark blue sky : 1
+smooth, bold, solid lines : 1
+gray in botoom, grass on the right, blue sky in the top : 1
+solid lines, sharp lines : 1
+dark brown, red and black : 1
+green and blue domination : 1
+horizontal trees : 1
+colorful, yellow and gray scale : 1
+green in bottom, blue and white in the top : 1
+white clouds in the top : 1
+colorful, brown, yelow, green : 1
+white background with green : 1
+solid lines, smooth lines : 1
+brown and cream color : 1
+colorful, brown, cream shades, green and gray : 1
+with text at the bottom : 1
+brown, peach shades : 1
+sharp lines, solid lines : 1
+intense orange color, brown and shades of blue : 1
+trembling lines, solid lines : 1
+brown shades, pink : 1
+blue ombre and brown shades : 1
+with text, dialog : 1
+smooth, solid lines : 1
+solid lines, not neat, crossing lines, visable pixels : 1
+solid lines, blurry, faded : 1
+faded text, watermark : 1
+green, gray and ligh blue in the top : 1
+polychromatic with domination of green and blue : 1
+blue shades with golden sources : 1
+blue sky, sunset : 1
+Solid lines, jagged, visable pixels : 1
+solid lines, uneven lines, visible pixels : 1
+no lines, seperated by colours : 1
+colorful blue green red yellow : 1
+colorful, various objects : 1
+blurry line, seperated by colour : 1
+colorful, darker colors : 1
+polychrome, black blue red : 1
+musical notes : 1
+solid line, definite : 1
+colorful, red blue green : 1
+monochrome, blue : 1
+brown white black : 1
+polychrome, dull green and brown : 1
+medium, dull colors : 1
+colorful, brown color shades : 1
+colorful, red brown green : 1
+polychrome red grey : 1
+polychrome shades of red brown : 1
+discrete text in the center : 1
+polychrome white brown : 1
+colorful shades of pink : 1
+black, darkness : 1
+colorful shades of pink brown : 1
+polychrome brown grey : 1
+medium saturation, shadows, dark : 1
+gray scale with colored spots : 1
+green in bottom, white in top : 1
+creamy shades, gray and brown : 1
+contrast green and blue sky : 1
+smooth lines, defenite : 1
+shades of white gray brown : 1
+none : 1
+polychromatic with domination of green and white : 1
+polychrome, dull green brown : 1
+shades of red gray : 1
+red shades with black tips : 1
+faded watermark : 1
+light shades, white and blue : 1
+sharp lines, seperated by colors, definite : 1
+white shaded with grey : 1
+colorful, contrasting, orange and black elements : 1
+orange with some shades of blue : 1
+blurry lines, seperated by color, definite : 1
+polychromatic, yellow white blue : 1
+signature in bottom right : 1
+brown shades with black tips  : 1
+brown with shades of blue and grey : 1
+medium saturation, shadow : 1
+dark shades, shadow : 1
+sharp lines, seperated by colors : 1
+polychrome green blue with shades of white pink : 1
+blurry lines, definite : 1
+brown shades with black on the top : 1
+blue with shades of orange green : 1
+definite, sharp lines, seperated by color : 1
+yellow orange with shades of brown : 1
+polychromatic, lots of colors : 1
+yellow, white white shadows and blue patch : 1
+gray and white scale : 1
+polychromatic grey green with shades of various colors : 1
+dark lines, definite : 1
+streaks of orange and blue : 1
+source and watermarks : 1
+bright colors with black : 1
+polychromatic, green brown blue with shades of white : 1
+red shades and blues elements : 1
+black with spots of blue : 1
+sharp lines, definite, seperated by color : 1
+many colors with shades of blue : 1
+blue with spots of white green : 1
+medium : 1
+white with shades of blue : 1
+colorful, brow, shades of red, green : 1
+bricks : 1
+blue and green with shades of white : 1
+faded watermark and source : 1
+sharp lines, seperated by color : 1
+green with shades of brown white : 1
+white and dark shades : 1
+green white with yelllow spot : 1
+high saturation, light : 1
+definite, sharp lines : 1
+medium saturation, few colors shadows : 1
+whithe, shadows, red spot : 1
+white scale : 1
+brown with some blue and shadows : 1
+white and brown, contrasting : 1
+no : 1
+blue with spots of white : 1
+many colors, lots of objects : 1
+umbrellas : 1
+creamy shades, dark tones : 1
+trembling lines, seperated by color : 1
+pink, flesh, black element : 1
+white patches : 1
+polychromatic brown green : 1
+medium saturation, dark colors : 1
+blue and orange shades : 1
+brown, earthy : 1
+black tones and flesh elements : 1
+brown with shades of red : 1
+brownish, pink element : 1
+polychromatic brown green blue : 1
+sharp, definite lines layer of white : 1
+contrasting shades, orange and blue : 1
+medium saturation, dull coolors : 1
+various shades blue brown white : 1
+brown with shades of blue and white : 1
+polychromatic shades of blue brown white : 1
+low saturation, few colors dull : 1
+white with streak of blue : 1
+some drawn on : 1
+green, brownish : 1
+High level details : 1
+sharp definite lines : 1
+blue with spots of yellwo red green : 1
+polychromatic blue black brown : 1
+polychromatic brown green blue red yellow : 1
+brown with shades of blue yellow : 1
+gray scale, blueish : 1
+polychromatic brown blue : 1
+colored horizontal strokes : 1
+blue with shades of red green gray : 1
+polychromatic brown green with shades of blue : 1
+colorful, brown, cream shades, green : 1
+cream background : 1
+colorful, green, blue : 1
+monochrome green : 1
+colorful, teal dominance : 1
+colorful, blue, red, green, gray : 1
+white, with green and blue : 1
+cream, white, brow color : 1
+gray scale, skin  : 1
+dark color, red : 1
+colorful, blue, yellow, orange : 1
+three instance : 1
+colorful, blue, yellow : 1
+colorful, orange, green, blue : 1
+red, cream colors : 1
+gray shades, green : 1
+colorful, blue, yellow, brown : 1
+dark brown shades, blue : 1
+sharp-lines : 1
+white scale with blue patch : 1
+skin shades and brown  : 1
+brown with blue white patches : 1
+polychromatic white brown : 1
+white with shadows : 1
+polychromatic white brown with patches of black : 1
+text in top left corner : 1
+polychromatic white brown with patches of blue : 1
+text in left side : 1
+high saturation, strong light reflections : 1
+brown with patches of green : 1
+polychromatic brown blue with patches of red : 1
+brown with patches of blue and light : 1
+white with patches of black : 1
+dark, polychromatic yellow black : 1
+white with patches of red black : 1
+polychromatic black brown blue : 1
+red and yellow dominance : 1
+colorful, bland : 1
+dialog and source : 1
+high saturation, light and shadows : 1
+white with patches of brown : 1
+white with a patch of green : 1
+distorted : 1
+trembling lines, definite, disconnected : 1
+sharp and trembling lines, definite, visable pixels : 1
+brown, white, gold : 1
+brown, yellow, black : 1
+solid line edges, thick edges : 1
+solid  edges : 1
+sandy color : 1
+yellow, pink, blue : 1
+red and gray colors : 1
+violet monochrome : 1
+text on the bottom, title : 1
+artificial texture : 1
+blurry background, bright background : 1
+perspective, unrealistic perspective : 1
+stroked lines : 1
+turquoise and yellow colors : 1
+solid line edges, thick lines : 1
+blue dominance, white elements : 1
+orange background, white background : 1
+solid line edgees : 1
+hig color saturation : 1
+seven instances : 1
+blue dominance, black element : 1
+text on top : 1
+rendered texture : 1
+soft edges : 1
+orange and yellow colors : 1
+red, orange, yellow : 1
+smooth background, yellow background : 1
+creamy dominance, blond : 1
+gray scale, pink elements : 1
+yellow, blue, red : 1
+text in the cetner : 1
+brown shades, bland colors : 1
+white dominance, orange and black elements : 1
+text on top left : 1
+crowded background, colorful background : 1
+white and orange colors : 1
+green and white colors : 1
+colorful, gray : 1
+brown shades, black : 1
+smooth edges : 1
+grayscale saturation : 1
+stroked line edges : 1
+creamy and green shades : 1
+sketched texture : 1
+white background, yellow circle : 1
+yellow background, black background : 1
+red and beige colors : 1
+gradient background, blue background, yellow background : 1
+brown background : 1
+solid line edges, bold edges : 1
+brown shades, blue element : 1
+text in the center, text on the top : 1
+brown dominance, black element : 1
+yellow, non uniform : 1
+intense edges : 1
+brown shades, black shades : 1
+mixed white and brown : 1
+not well defined edges : 1
+low intensity saturation : 1
+gray, blue and green color shades : 1
+white and gray mixed : 1
+blue and orange : 1
+white to gray : 1
+small text at bottom right : 1
+net surrounding edges : 1
+blue, pink and purple : 1
+low-level  details : 1
+not clear edges : 1
+mainly grey : 1
+mainly brown, white and green : 1
+clear, white and green : 1
+three texts for the copyright : 1
+totally green : 1
+printing texture, Picasso-like : 1
+skin color, blue dominance : 1
+black, grey and black, confused : 1
+mixed white and orange : 1
+black and white colors : 1
+yellow and a wall : 1
+small, white : 1
+colorful, many colors : 1
+black, grey wall : 1
+printing instance : 1
+very high color saturation : 1
+very colorful : 1
+yellow and red sky : 1
+clearly undefined edges : 1
+white and blue sky : 1
+painting texture, like Van Gogh : 1
+low saturatioin saturation : 1
+two or more instances : 1
+mixed green and blue : 1
+white with mixed colorful patches : 1
+white and grey, indefinite : 1
+five instances : 1
+pink and white sky : 1
+not precise edges : 1
+brown and yellow and red : 1
+undefinite blue : 1
+colorful, flowers : 1
+gray dominance : 1
+bland colors, blue dominance : 1
+not very precise : 1
+yellow, orange, red : 1
+undefinite yellow and orange : 1
+text in bottom of the image : 1
+bright, multicolor : 1
+undefinite, internal house : 1
+simple painting texture : 1
+blue and yellow shades : 1
+undefinite yellow : 1
+by-hand painting : 1
+definite and precise : 1
+multicolor, mainly yallow and red : 1
+undefinite yellow and red sky : 1
+grey, undefinite : 1
+realistic painting : 1
+bright, natural flower colors : 1
+green dominance, colorful : 1
+at the bottom of the image : 1
+impressionism-like painting : 1
+perfect white : 1
+grey, sad colors : 1
+dark grey, internal house : 1
+anime-like painting : 1
+brown scale : 1
+red, indefinite  : 1
+digital painting texture : 1
+bright, natural colors : 1
+undefinite gray scale : 1
+water colors like : 1
+multicolor, contrasting : 1
+undefinite, multicolor : 1
+old photo-like texture : 1
+white and multicolor : 1
+top of the image : 1
+undefinite green and yellow nature : 1
+grey, cloudy sky : 1
+orange and blue : 1
+blue and cloudy sky : 1
+undefinite nature : 1
+indefinite edges : 1
+mainly green : 1
+undefinite green outdoor : 1
+multicolor, gray scale : 1
+white and multicolor  : 1
+painting perspective : 1
+blue cloudy sky with sun : 1
+blue sea : 1
+low detail : 1
+gray scale, multiple colors : 1
+undefinite dark background : 1
+gray and brown : 1
+gray scale, red touch : 1
+brown and gray scale, red touch : 1
+art painting texture : 1
+colorful, sandy : 1
+undefinite dark blue : 1
+bottom of the image : 1
+multicolor, bland colors : 1
+grey, indor house : 1
+skin shades, brownish : 1
+central text : 1
+dark white : 1
+undefined black : 1
+squares : 1
+undefinite red : 1
+carton-like : 1
+skin shades, bland colors : 1
+white and black colors : 1
+grey cloudy sky : 1
+blue sky and indor : 1
+grey and yellow : 1
+undefinite yellow wall : 1
+grey undefinite : 1
+undefinite dark grey : 1
+real painting texture : 1
+light blue and green and red : 1
+high quality texture : 1
+high saturatin saturation : 1
+multicolor, bright  : 1
+undefinite green and yellow : 1
+multicolor, green dominance : 1
+impressionism painting : 1
+undefinite gray : 1
+pink and black elements : 1
+sandy and blue colors : 1
+undefinite red and gray wall : 1
+sandy shades, yellow : 1
+very thick edges, definite : 1
+brown colors, black edges : 1
+light brown : 1
+red, black, white : 1
+undefinite red and white : 1
+undefinite green and white : 1
+yellow, undefinite : 1
+multicolor, purple and yellow elements : 1
+precise, definite : 1
+definite, precise : 1
+top right of the image : 1
+gray and blue shades : 1
+white, indefinite : 1
+greenish background : 1
+typical house indoor : 1
+white dominance, golden spots : 1
+green and blue, shadows : 1
+green and brown hills : 1
+brown, white and green : 1
+orange and black shades, brownish : 1
+green grass and green trees : 1
+white striped : 1
+green and yellow house indoor : 1
+white, yellow and pink indoor : 1
+black, white, brown : 1
+white snow : 1
+blue and green colors : 1
+green nature : 1
+black and grey house indoor : 1
+green nature, blue, cloudy sky : 1
+brown and green nature : 1
+blue, cludy sky : 1
+white, black, red, brown : 1
+blue sunny sky : 1
+green grass and blue sunny sky : 1
+house indoor : 1
+gray scale, brownihs : 1
+greenish, cloudy sky : 1
+green trees, white sunny sky : 1
+green trees and blue sky : 1
+green house indoor with geographic maps : 1
+low saturation, shadow : 1
+colorful, white : 1
+books, house indoor : 1
+green dominance, cloudy sky : 1
+dark blue shades, golden spots : 1
+blue, sunset sky : 1
+cream and blue undefinite : 1
+undefinite brown and grey indoor : 1
+grey walls : 1
+papers on a wall : 1
+yellow wall : 1
+grey scale saturation : 1
+white paper : 1
+yellow and creamy  dominance, gray elements : 1
+white, cloudy sky : 1
+horizontal lines : 1
+clouds in the sky : 1
+trees, blue sky and a house : 1
+not definite : 1
+brown, undefinite : 1
+blue, black, brown, white : 1
+brown wall : 1
+perfect red : 1
+brown shades, white touch : 1
+grey floor : 1
+squares in background : 1
+grey floor and green vegetation : 1
+undefinite outdoor : 1
+green vegetation and blue sky : 1
+grey and green color : 1
+black and blue shades : 1
+grey, brown, green, blue : 1
+green grass, trees and white sky : 1
+brick walls : 1
+grey wall : 1
+pink wall : 1
+green vegetation, white sky : 1
+brick wall : 1
+brown floor : 1
+white and grey wall : 1
+perspective : 1
+white floor, green grass : 1
+dark, black : 1
+white snow, cloudy sky and snowed vedegation : 1
+at least three instances : 1
+grey, undefinite wall : 1
+black, grey, red : 1
+pink, grey, brown, yellow : 1
+blue water and green vegetation : 1
+blue and white dominance : 1
+white and blue wall : 1
+cream terrain, white, cloudy sky : 1
+mountains and blue sky : 1
+medium saturation, shadows : 1
+grey floor and green, brown vegetation : 1
+written whiteboard : 1
+single isntance : 1
+very low-level details  : 1
+solid line edges, black lines : 1
+solid line edges, curved lines, black lines, thin : 1
+solid line edges, curved lines,stright lines, black lines : 1
+texturelessv : 1
+solid line edges, black lines, thick lines, jagged edges : 1
+solid line edges, black lines, thick lines, jagged, smooth : 1
+solid line edges, black lines, thick lines, jagged : 1
+brownish-gray background with darker areas : 1
+plain pink background : 1
+strong neat lines edges : 1
+brownish portico background : 1
+brush strokes edges : 1
+grey with some brown shades background : 1
+text on the bottom left, signing : 1
+mid-low-level details : 1
+moe defined edges in the upper part : 1
+neat strong brushes edges : 1
+bland colors, black and skin shades : 1
+brownish and gray background with dark areas : 1
+yellow dominance with blue element : 1
+red yellow purple blue waves : 1
+intense brush lines edges : 1
+brown dominance, red, pink : 1
+dark colors background : 1
+plain grey background : 1
+strong strokes : 1
+skin shades, bland colors, dark : 1
+bland colors, gray in top : 1
+not defined edges : 1
+blue and green shades : 1
+blue sea on background, dark tones : 1
+blurry lines edges : 1
+red curtain and brown wall : 1
+neat and small lines : 1
+edges are present : 1
+spring environment, green and blue : 1
+green and gray hills : 1
+blue with green waves : 1
+dark red shades : 1
+very highly saturated saturation : 1
+blue on the left side, yellow on the right side : 1
+neat yet trembling lines : 1
+black, white and yellow shades : 1
+solid liness : 1
+signature in right bottom corner : 1
+some edges are strong, some weak : 1
+blue wavy background : 1
+blurry thick lines : 1
+white, brown shades with black edges : 1
+edges are not defined by strokes but just by change of colors : 1
+brownish and blue : 1
+very weak edges : 1
+colorful, dark : 1
+very defined edges : 1
+sandy, gray scale : 1
+thin strokes : 1
+white with patches of blue purple yellow : 1
+gray scale, colorful tips : 1
+white blue background : 1
+neat brushes : 1
+highly saturated saturation : 1
+white with blue and purple shades : 1
+very neat and thin edges : 1
+weak trembling brushes : 1
+gray scale, light reflections, yellow shades : 1
+huge presence of green : 1
+thin edge : 1
+purple and green shades : 1
+tree on the background : 1
+colorful, brown, blue shades : 1
+colorful, yellow and white shades : 1
+orange and yellow waves : 1
+white and black  dominance, brownish : 1
+pink background, dark tones : 1
+thick neat egeds : 1
+thin very strong edges : 1
+yellow and pink dominance : 1
+dark tones, black shades : 1
+brownish grass, some trees, bland colors : 1
+colorful, plenty of colors : 1
+dark blue in top and greenish in bottom : 1
+gray scale, black elements : 1
+pale colors, dark high grass on bottom : 1
+dense text in bottom and in top : 1
+brown and black shades, white tips : 1
+neat, thick edges : 1
+contrasting, colorful, vivid colors : 1
+purple monochrome : 1
+discrete signature in bottom right corner : 1
+dense text in right side : 1
+black dominance, colorful : 1
+brownish background : 1
+colorful, mixed colors, vivid colors : 1
+gray scale, brown, black edges : 1
+green and cream shades, black edges : 1
+turquoise and white shades : 1
+red, purples shades : 1
+turquoise dominance : 1
+cold colors, pink and blue : 1
+shades of brown to yellow on background : 1
+thin trembling edges : 1
+gray scale, cold colors, yellow spot : 1
+cold colors, gray scale : 1
+discrete text in bottom right corner : 1
+brown shades, red tips : 1
+warm colors, orange and red : 1
+thin but defined edges : 1
+orange and red shades : 1
+spray colors : 1
+bland colors, brownish, golden spots : 1
+brownish, dark blue shades, dark tones : 1
+pink and creamy shades : 1
+thick white edges : 1
+white, gray shades : 1
+colorful, green, blue, spring environment : 1
+strong solid edges : 1
+pink, gray shades : 1
+gray and brownish shades : 1
+golden wooden frame : 1
+white dominance, gray element : 1
+brushy edges : 1
+white, gray scale : 1
+colorful, faded, spring environment : 1
+dark blue in top : 1
+neat strong curvy edges : 1
+bland colors, contrasting : 1
+contrasting, dark tones : 1
+colorful, bland colors, white edges : 1
+green grass, white sky : 1
+creamy and gray scale : 1
+green grass and blue sky : 1
+green and blue shades, dark on the side : 1
+creamy and gray shades : 1
+brownish, light spots : 1
+black edges, light sources, white presence : 1
+brownish shades, wooden : 1
+gray scale, white presence : 1
+sunset : 1
+white dominance, brown : 1
+green and blue shades, white clouds : 1
+gray and white colors : 1
+creamy and gray colors : 1
+gray scale, white elements : 1
+blue shades, white : 1
+gray scale, blondy : 1
+square tiles : 1
+black and brown : 1
+black dominance, blond : 1
+gray and green shades : 1
+white dominance, red : 1
+green and yellow : 1
+green, spring environment : 1
+brownish, blondy shades : 1
+bland colors, green : 1
+black shades with white elements : 1
+green, bland colors : 1
+brown shades, blond : 1
+sandy, brownish : 1
+brown shades, white, blondy : 1
+brownish, green, blue : 1
+dark brown shades, black elements : 1
+yellow and green shades : 1
+savannah : 1
+green background, forest : 1
+very neat edges : 1
+thin well defined edges : 1
+branches : 1
+white emerging edges : 1
+colorful, greenish : 1
+low color saturation, shadows, blue background, leafy texture : 1
+bland colors, shadows : 1
+creamy and blue shades : 1
+colorful, light reflections : 1
+strong defined edges : 1
+mild edges : 1
+bland colors, yellow : 1
+shadows, dark colors : 1
+gray scale dominance : 1
+white and gray dominance : 1
+creamy, colorful : 1
+dark tones, shadow : 1
+light reflections, green, shadow : 1
+strong but blurry edges : 1
+thin trembling lines : 1
+strong thin edges : 1
+bricks lines : 1
+dirt road, sandy, green grass : 1
+brownish, sandy, greenish, blue : 1
+white strong edges : 1
+blond, yellowish, black shades : 1
+black dominance, blue : 1
+bland colors, creamy, dark : 1
+turquoise and brown shades : 1
+black dominance, gray : 1
+brown, black and white colors : 1
+skin shades, brown and gray colors : 1
+brown shades, pink tips : 1
+partly realistic perspective : 1
+purple shades : 1
+purple with white spirals : 1
+spirals texture : 1
+turquoise shades : 1
+ white background  : 1
+gettyimages textbox : 1
+creamy and pink shades : 1
+white background with a tree : 1
+yellowish background : 1
+brown shades, blond tips : 1
+horseshoes : 1
+neat blurry edges : 1
+green and orange shades : 1
+green and light blue background : 1
+gray scales, blue shades : 1
+brownish, red and blue : 1
+blue shades with pink tips : 1
+text on right side : 1
+brown and blond shades : 1
+dense text in center : 1
+white and gray colors : 1
+brown dominance with yellow element : 1
+yellow earth : 1
+flickering lines : 1
+white and black shades, yellow element : 1
+discrete sparse text : 1
+green trees on white background : 1
+gray and brown colors : 1
+colorful, creamy dominance : 1
+windows : 1
+discrete texts : 1
+sparse white texts : 1
+purple letter : 1
+vivid blue and green colors : 1
+spirals : 1
+white text in bottom : 1
+vivid gray and pink colors : 1
+green trees on blue background : 1
+neat precise edges : 1
+yellow and gray shades : 1
+gray and pink colors : 1
+creamy and black colors : 1
+thin inaccurate edges : 1
+yellow dominance, brown and black elements : 1
+comic : 1
+vivid gray colors : 1
+brown and cream colors : 1
+vivid green and brown colors : 1
+thick strong edges : 1
+dashed edges : 1
+neatedges : 1
+thin strong edges : 1
+rounded edges : 1
+detailed, digital, delineated, artificial : 1
+definite, detailed, sharp : 1
+intense saturation harmonious saturated vibrant vivid : 1
+colorful, complementary, rich, warm : 1
+single color, colorful, rich, uniform : 1
+detailed, intricate : 1
+precise lines, blurred : 1
+intense saturation dark : 1
+grey, deep, faded, ashy : 1
+multiple color, muted, graduated : 1
+detailed, grainy : 1
+colorful, cool, muted, muddied : 1
+multiple color, changing, blurred : 1
+definite, imprecise, blurred, uneven : 1
+muted, faded, neutral : 1
+single color, uniform, grey, white : 1
+digital, detailed : 1
+contrasting, cold, deep, dark : 1
+single color, dark : 1
+uneven : 1
+uneven, irregular : 1
+colorful, complementary, blended, graduated, warm : 1
+multiple color, rich, colorful, changing, graduated : 1
+uneven, flat : 1
+detailed, artificial, digital : 1
+intense saturation bright vivid : 1
+multiple color, colorful : 1
+detailed, representational, grainy : 1
+definite, distinct, uneven, irregular : 1
+colorful, complementary, bright : 1
+multiple color, rich, panoramic, smooth : 1
+grainy, detailed, representational : 1
+sharp, uneven : 1
+multiple color, rich, changing, panoramic : 1
+intense saturation vibrant saturated : 1
+dark tone, black and brown shades : 1
+multiple color, changing, red, colorful : 1
+grainy, representational level details details : 1
+blurred, soft, imprecise : 1
+blue, red and black shades : 1
+multiple color, smooth, blended, white : 1
+gray scale, joyful, harmonious : 1
+multiple color, colorful, detailed : 1
+detailed, elaborate : 1
+multiple color, smooth, panoramic : 1
+contrasting, muddied, mixed : 1
+single color, brown, graduated : 1
+green and black shades, contrasting : 1
+colorful, vibrant, contrasting : 1
+multiple color, elaborate, brown : 1
+complementary, harmonious, grey, muted : 1
+single color, smooth, grey : 1
+intense saturation cool : 1
+complementary, cold, mixed : 1
+painting, uneven, brish strokes : 1
+colorless, muted, faded, ashy : 1
+multiple color, grey, blended : 1
+detailed, representational : 1
+intense saturation contrasting cold graduated dark : 1
+rich, muddied, brown : 1
+multiple color, changing, graduated, dark : 1
+detailed, grainy, elaborate : 1
+definite, irregular, distinct : 1
+harmonious saturation vivid warm light : 1
+complementary, joyful, light, faded, radiant : 1
+multiple color, faded, muted, blended : 1
+multiple color, rich, colorful, red : 1
+painting, flat : 1
+multiple color, changing, graduated, smooth, blended : 1
+uneven, blurred, imprecise : 1
+colorful, brown, intense : 1
+single color, brown, smooth, blended : 1
+intense saturation rich bright : 1
+colorful, intense, rich, vibrant, brilliant : 1
+single color, black : 1
+precise lines, distinct : 1
+harmonious, vivid, pink : 1
+background : 1
+gray scale, black shades : 1
+colorful, rich, bright, intense : 1
+single color, rich, blue : 1
+gray scale, muddied, muted : 1
+single color, grey, blended : 1
+flat, smooth : 1
+precise lines, uneven, irregular : 1
+high saturation, rich vivid colors : 1
+definite, precise lines, sharp, uneven : 1
+gray scale, brown shades and black edges : 1
+definite, imprecise, blurred, irregular : 1
+complementary, rich, mixed, faded : 1
+intense saturation bright rich vibrant : 1
+precise lines, uneven : 1
+skin, black, red shades : 1
+single color, rich, red : 1
+uneven, irregular, blurred : 1
+dark tones, brown shades : 1
+multiple color, smooth, brown : 1
+single color, blue : 1
+definite, soft : 1
+colorful, joyful, warm : 1
+brilliant, bright, complementary : 1
+painting, pencil strokes, soft : 1
+brown shades, black edge : 1
+multiple color, changing, rich, brown, dark : 1
+sharp, uneven, irregular : 1
+contrasting, gray and red shades : 1
+intense saturation vivid : 1
+colorful, muted, brown, cool : 1
+distinct, soft : 1
+dense, signature : 1
+contrasting, brown, black, white : 1
+multiple color, blended, brown, rich : 1
+detailed, uneven, precise lines, irregualr : 1
+contrasting, bold, bright : 1
+multiple color, dark, brown, deep : 1
+multiple colors, changing, white, yellow, rich : 1
+painting, soft, pencil strokes : 1
+colorful, cold, brown, contrasting : 1
+colorful, joyful, complementary : 1
+uneven, irregular, distinct : 1
+colorful, contrasting, cold, ashy : 1
+single color, green, dark : 1
+painting, hard, brush strokes : 1
+colorful, rich, brown, deep, vibrant : 1
+single color, blue, smooth : 1
+muddied, brown, rich, warm : 1
+definite, uneven, sharp, blurred : 1
+colorful, faded, muted, neutral : 1
+intense saturation, dark, rich, cold : 1
+multiple color, blended, changing : 1
+intense saturation inspid contrasting rich : 1
+rich, intense, brown, complementary : 1
+multiple colors, rich, brown, blended : 1
+delineated, patchy level details details : 1
+definite, uneven, blurred : 1
+gray scale, brown tips : 1
+intense saturation contrasting : 1
+contrasting, radiant, colorful : 1
+single color, colorful, uniform : 1
+vivid saturation black graduated contrasting : 1
+contrasting, intense, black, cold : 1
+multiple colors, blended, graduated, smooth, pink : 1
+soft, imprecise, blurred : 1
+contrasting, colorful, cold, mixed : 1
+single color, smooth, green, blended : 1
+painting, brush strokes, smooth : 1
+detailed, uneven : 1
+gray scale and teal element : 1
+detailed, precise lines, uneven, blurred : 1
+intense saturation, vivid, rich : 1
+colorful, bright, rich, vibrant : 1
+definite, imprecise, irregular, blurred : 1
+creamy, white shades, black element : 1
+single color, brown, smooth : 1
+single color, blended : 1
+yellow and brown shades, bright : 1
+single color, white, grey, uniform : 1
+colorful, radiant, mixed, muted : 1
+weak saturation inspid graduated : 1
+gray scale, muted, faded : 1
+single color, graduated, muted, grey : 1
+intense saturation rich colorful : 1
+colorful, harmonious, joyful, rich : 1
+blue and skin shades : 1
+multiple colors, colorful, blended, changing, green : 1
+dark, brown shades : 1
+intense saturation deep dark inspid : 1
+dark, black shades : 1
+mutliple color, graduated, green, detailed : 1
+definite, precise lines, uneven : 1
+black and white shades, faded : 1
+single color, blended, grey, white : 1
+imprecise, uneven, blurred : 1
+complementary, harmonious, mixed, muted : 1
+brush strokes, painting : 1
+definite, sharp, precise lines : 1
+uneven, blurred, soft : 1
+rich, blended, joyful, mixed : 1
+single color, changing : 1
+contrasting, intense, dark, cold : 1
+multiple colors, dark : 1
+painting, uneven, brush strokes : 1
+blurred, irregular, distinct, detailed : 1
+definite, blurred, imprecise : 1
+brown dominance, righ, intense : 1
+single color, graduated, rich : 1
+detailed, precise lines, sharp : 1
+gray scale, ashy, graduated : 1
+multiple color, graduated, rich, detailed, panoramic : 1
+bright, mixed, white, gold, radiant : 1
+single color, smooth, blended : 1
+gray scale, faded, bland colors : 1
+single color, blended, changing : 1
+soft, uneven, precise lines : 1
+contrasting, colorful, rich : 1
+definite, uneven, distinct : 1
+contrasting, colorless, ashy : 1
+multiple color, changing, blended : 1
+delineated, irregualr, blurred : 1
+single color, brown, blended : 1
+complementary, faded, muted, neutral : 1
+multiple color, smooth, blended : 1
+definite, precise lines, detailed : 1
+intense saturation bright rich graduated : 1
+colorful, rich, harmonious : 1
+deinite, uneven, precise lines, blurred : 1
+harmonious, warm, blended, graduated, faded : 1
+multiple color, graduated, smooth, blended : 1
+definite, detailed, blurred, irregular : 1
+white dominance, contrasting, rich : 1
+colorful, complementary, harmonious, vibrant : 1
+yellow and white dominance : 1
+multiple color, black, white : 1
+intense saturation, dark, cold : 1
+muddied, cold, contrasting, brown : 1
+multiple color, dark, detailed, graduated : 1
+definite, imprecise, uneven : 1
+intense saturation rich contrasting : 1
+faded, neutral : 1
+complementary, bright, joyful, radiant : 1
+cold, blue and black shades : 1
+bland colors, warm : 1
+intense saturation contrasting inspid : 1
+contrasting, cold, mixed, yellow : 1
+single color, brown, blended, changing : 1
+small writing : 1
+geometric shapes, cold, rich, patterned, interiors : 1
+landscape, nature : 1
+plain, white, shadow, interiors : 1
+ relevalt text : 1
+black shades with white tip : 1
+landscape, single color, green : 1
+landscape, gray : 1
+landscape, rich, green : 1
+plane, white, shadow, interiors : 1
+vivid saturation rich : 1
+single color, landscape, green : 1
+brown, precise lines, interiors : 1
+white, precise lines, interiors : 1
+relevalt text : 1
+brown, muddy, landscape, green : 1
+rich, patterned, interiors : 1
+black shades, dark tones : 1
+brown shades, light : 1
+dark gray with white tips : 1
+precise lines, rich, green : 1
+smooth, precise lines, definite, detailed : 1
+dark, interiors : 1
+brilliant : 1
+gray, muddy : 1
+colorful, bright, intense, blond and brown shades : 1
+single color, rich, green : 1
+single color : 1
+imprecise, irregular, blurred : 1
+single color, white, smooth : 1
+gray scale, sandy, white : 1
+multiple color, changing, graduated, brow, landscape : 1
+colorful, bright, cold : 1
+natural, green, gray : 1
+colorful, bright, warm : 1
+plain, white, interiors : 1
+urban, brown, gray : 1
+landscape, colorful, green : 1
+pale, muddied, brown : 1
+multiple color, changing, graduated, green, landscape : 1
+brilliant, vibrant, warm : 1
+interiors, gray : 1
+light blue, sky : 1
+intense saturation rich warm : 1
+black and pink shades : 1
+gray, landscape, green : 1
+gray scale, sandy, brown shades : 1
+landscape, brown, green, muddy : 1
+brown dominance, yellow shades : 1
+green, muddy : 1
+blended, muddied, cold, brown : 1
+creamy shades, white and gray : 1
+detailed, sharp, grainy : 1
+brilliant, vibrant, cold : 1
+blue sky, green : 1
+cold, dark blue shades : 1
+smooth, grainy, blur lines : 1
+muddied saturation cold natural : 1
+smooth, grainy : 1
+dark gray scale, red element : 1
+gray, urban : 1
+black dominance, golden spots : 1
+green, interiors : 1
+blue, natural, green, gray sky : 1
+natural, green : 1
+landscape, sandy, natural : 1
+light brown shades, sandy : 1
+gray, changing : 1
+brown, muddy, urban : 1
+lanscape, gray : 1
+creamy shades, white : 1
+gray scale, light : 1
+plain, blue : 1
+dull saturation pale muted : 1
+black dominance, skin shades : 1
+not relevant : 1
+mid-level, delineated details : 1
+white with green frame : 1
+green-colored with shades of cream : 1
+brown and orange shades : 1
+lighy blue, white, red : 1
+low-level,grainy details : 1
+white and red : 1
+gray and blue shades, red element : 1
+orange with white frame : 1
+orange patches : 1
+white with black patch : 1
+mid-level, detailed, representational : 1
+green and white shades : 1
+green-colored with some shades of grey : 1
+ligh blue : 1
+mid-level, representational, delineated details : 1
+purple and red : 1
+brown and sandy shades : 1
+mid-level, grainy, representational, delineated details : 1
+high-level, delineated, detailed, representational : 1
+white and gray checkered : 1
+gray squares : 1
+low-level, grainy, representational details : 1
+white with blue tips : 1
+gray scale with purple element : 1
+blue, green, white : 1
+yellow dominance, brown tips : 1
+low-level, grainy, delineated details : 1
+white dominance, yellow element : 1
+definite, imprecise : 1
+definite, uneven : 1
+distinct, sharp, dark : 1
+distinct, light, sharp : 1
+distinct, irregualr : 1
+delineated, imprecise : 1
+delineated, sharp : 1
+sharp, irregular : 1
+sharp, irregular, imprecise : 1
+imprecise, irregular, sharp : 1
+irregular, sharp, marked : 1
+sharp, distinct, imprecise : 1
+red-colored with some shades of yellow : 1
+bland colors, red, purple : 1
+blue, green, brown shades : 1
+monochrome blue in the top, brown in bottom : 1
+bland colors, dark on the right : 1
+dominance of dark blue, skin : 1
+6 : 1
+dominance of green, spring environment : 1
+brown shades with black element : 1
+orange colored : 1
+definite with dropping paint : 1
+colorful saturation : 1
+reddish shades : 1
+white, blue and navy blue : 1
+green-colored mixed with blue : 1
+creamy shade, brownish : 1
+white scale with blue elements : 1
+brownish, autumnal environment : 1
+skin and gray shades : 1
+bland colors, brownish, gray : 1
+red-colored with some shade of yellow : 1
+blue turning to black : 1
+orange-colored : 1
+gray scale, blue, pink : 1
+burgundy, bland colors, white : 1
+violet-colored : 1
+white and purple : 1
+blue and pink : 1
+sandy, off-white : 1
+bland colors, dark tones : 1
+pink and yellow : 1
+gray scale, yellow : 1
+warm colors, red, yellow, brown : 1
+warm colors : 1
+gray scale with red tips : 1
+gray and orange : 1
+dominance of blue : 1
+pink : 1
+flower petal : 1
+cold colors : 1
+blue and brownish : 1
+four : 1
+beige and white : 1
+blue shades whit white and green : 1
+white bands : 1
+green and purple : 1
+colorful, creamy : 1
+red, brown : 1
+beige, brown : 1
+colorful, dominance of purple and yellow : 1
+spring environment, colorful : 1
+undefined : 1
+unrealistic, distorted : 1
+green, red, black : 1
+black and blue : 1
+white and blue : 1
+color bands : 1
+colorful, white dominance, black element : 1
+dark green and dark blue : 1
+colorful, white and orange shades : 1
+gray scale, beige : 1
+colorful, spring environment, vivid colors : 1
+intense, with dropping paint : 1
+red and blue shade : 1
+colorful, white, contrasting : 1
+blue shade : 1
+colorful, blue dominance : 1
+pencil line : 1
+skin and blue shades : 1
+colorful, reddish, dark tones : 1
+white, sandy, beige : 1
+gray scale dominance with pink tips : 1
+burgundy dominance, colorful : 1
+yellow monochrome : 1
+discrete text left top corner : 1
+green and gray shades : 1
+dominance of green and blue : 1
+colorful, gray dominance : 1
+blue and gray dominance : 1
+colorful, white and beige dominance : 1
+orange and pink : 1
+black and skin : 1
+white with lines : 1
+yellow and red dominance : 1
+white and creamy : 1
+brown, sandy, black elements : 1
+yellow dominance with brown tips : 1
+dark blue monochroeme : 1
+dark blue with white tips : 1
+walls : 1
+text on bottom : 1
+yellow dominance with green tips : 1
+white with green patch : 1
+yellow and orange shades with dark elements : 1
+dark tones, gray scale dominance : 1
+white with black lines : 1
+text in bottom left corner : 1
+blue and green dominance : 1
+beige and sandy shades : 1
+white with yellow in center : 1
+colorful, brown and blue shades : 1
+contrasting blue and white  : 1
+light blue shades : 1
+green and pink : 1
+bland color, sandy : 1
+red intense, brownish top : 1
+yellow dominance, brown elements : 1
+teal and green : 1
+text on right : 1
+blue shades, yellow element : 1
+red and brown shades : 1
+monochrome blue  : 1
+skin shades, blue in bottom : 1
+creamy and red : 1
+dense bottom text : 1
+text at bottom : 1
+fading in center : 1
+white monochrome with gray patch : 1
+gray and blue shades in dominance : 1
+light refelection saturation : 1
+light blue shades with pink tips : 1
+light blue and white shades : 1
+blue and violet : 1
+gray with black border : 1
+dark tones, pink shades, brown : 1
+offwhite : 1
+red and gray : 1
+dark tones, blue : 1
+text at right side : 1
+light purple : 1
+red, white and green : 1
+savannah environment, beige and yellow : 1
+precie : 1
+white-clored with shades of brown in the floor : 1
+steams of tree with clear sky : 1
+white-color : 1
+lush green trees with clear sky : 1
+off-white with a picture frame : 1
+wall with a window : 1
+brown shades with white tips : 1
+a stable with iron shade and some light reflections : 1
+gray colored wall with brown furniture : 1
+green plants with cloudy sky : 1
+colorful, orange : 1
+cream colored wall with a wooden floor : 1
+guy holding the guitar : 1
+dark atmosphere : 1
+colorful, small  : 1
+tree green fields with cloudy sky : 1
+forest trees and dry surface : 1
+book shelf : 1
+books in background : 1
+clear sky with some steams of tree : 1
+lush green trees and clear sky : 1
+white monochrome with colored object in right side : 1
+lush green trees with green grass : 1
+colorful, creamy shades, brown : 1
+cloudy sky with some trees : 1
+yellow gras with cloudy sky : 1
+black screen with a poster : 1
+creamy shades, gray : 1
+snow with bushes : 1
+pearl white and light brown color with light reflection : 1
+sun light trees with shadow : 1
+wooden rack : 1
+wooden surface : 1
+sky with some clouds : 1
+grass with brick wall : 1
+gray scale with cold colors item : 1
+cream-colored with some colorful shades with light reflections : 1
+cream-colored with light reflection : 1
+multi-colored tiled floor : 1
+brown and black dominance : 1
+pinky tiles : 1
+floor tiles : 1
+trees and rough surface : 1
+yellow-colored with a brown strip : 1
+white and shiny spots with black elements : 1
+dark-blue sky with tree : 1
+multi-colored grass : 1
+snow and sky fully coverd with clouds : 1
+dark gray dots : 1
+wooden shades, brown : 1
+gray scale, colored : 1
+tree and clear sky : 1
+black-colored television : 1
+yes,colorfull : 1
+window and a cream-colored  concrete beam : 1
+multi-colored sky mountains and green feilds : 1
+yellow field, brownish : 1
+gray scale, sandy, beige : 1
+sky trees and some wood : 1
+sandy, brownish, yellow, gray : 1
+mud-colored rocks : 1
+yellow field with black shades : 1
+gray- colored : 1
+clear sky ,tree : 1
+multi-color wall : 1
+dark colored wall : 1
+lush green trees : 1
+brown, beige shades : 1
+cream-colored wall books shelf  full of books : 1
+blond, yellowish : 1
+light reflection with some tress : 1
+dark brown shades with white tips : 1
+dark-blue sky : 1
+brown-colored wall grass and tree : 1
+white dominance, colorful : 1
+blue sky and green grass : 1
+lush green grass : 1
+wood and trees : 1
+yellow and white-colored wall : 1
+white-colored wall : 1
+gray scale, dark : 1
+dry tress and grass : 1
+neat- strokes : 1
+ white colored wall with rough surface : 1
+green-colored bushes : 1
+green-colored grass : 1
+light colors, white dominance : 1
+light-colored : 1
+white-colored with some wood : 1
+white shades, greenish : 1
+pencil lines : 1
+vived color saturation : 1
+blue and black shades : 1
+wood, brown dominance : 1
+black and dark brown : 1
+4 : 1
+yes , black and white : 1
+beige and black : 1
+green and light blue, white : 1
+neat, precise brush strokes : 1
+gray scale, blue tips, light reflections : 1
+grey/blue colored background : 1
+trembling strokes : 1
+blue/green/brown-colored background : 1
+gray scale background : 1
+pink and gray shades : 1
+mixed colors monochrome background : 1
+bland colors, white tips : 1
+gret/green-colored background : 1
+bland colors, gray shades : 1
+grey/green/white-colored background : 1
+white dominance with brown element : 1
+6 instances : 1
+red dominance, skin color : 1
+monochrome yellow background : 1
+dark tone, black dominance : 1
+dark tones, black, blue, red : 1
+monochrome red background : 1
+red/yellow-colored background : 1
+white and green shades : 1
+precise, definite, neat brush strokes : 1
+red/black-colored background : 1
+yellow, orange dominance : 1
+blue shades, pink tip : 1
+gray scale with black elements : 1
+bland colors, black : 1
+blue and pink dominance : 1
+gray scale, red element : 1
+brown and orange shades dominance : 1
+yellow/orange/red-colored background : 1
+monochrome pink background : 1
+one text : 1
+orange/yellow-colored background : 1
+bland colors, brownish : 1
+undefinite, neat brush strokes : 1
+watermarks text : 1
+grey-colored background : 1
+yellow/red/white-colored background : 1
+yellow/orange-colored background : 1
+precise/neat brush strokes : 1
+black, white, blue shades : 1
+orange/blue-colored background : 1
+white/black-colored background : 1
+reddish, black, green tips : 1
+yellow/blue-colored background : 1
+precise, neat, definite brush strokes : 1
+bland colors, black and yellow : 1
+colorful, white and brown : 1
+white shades, gray : 1
+pink and blue shades : 1
+sandy, beige shades : 1
+bland colors, brownish dominance : 1
+autumnal background : 1
+brownish, pink dominance : 1
+low of details : 1
+blue shades, white tips : 1
+blue shades with white tips : 1
+red-colored background : 1
+dark gray, dark tones : 1
+brownish, white tips : 1
+colorful, wooden shades : 1
+yellow/brown-colored background : 1
+white and brown background : 1
+multi-colored background : 1
+white/mixed-colored background : 1
+gray scale, greenish : 1
+dark tones, gray scale, brownish : 1
+31 instances : 1
+green/brown colored background : 1
+green/grey colored background : 1
+blue/brown-colored background : 1
+brown dominance with white tips : 1
+green/white colored background : 1
+cream-colored with some shades of gray background : 1
+without : 1
+brown and white, colorful : 1
+white/yellow-colored background : 1
+brown/yellow-colored background : 1
+brown/grey-colored background : 1
+orange and black : 1
+blue/green/white-colored background : 1
+intense lines : 1
+precise, solid, intense lines : 1
+grey/black-colored background : 1
+hig-level of details : 1
+dense, precise lines : 1
+green/white/yellow-colored background : 1
+green/grey/black-colored background : 1
+brown/black-colored background : 1
+dense, solid lines : 1
+green/white/blue-colored background : 1
+white/green/brown-colored background : 1
+pink/green-colored background : 1
+green/black-colored background : 1
+definite, dense lines : 1
+brown/white-colored background : 1
+white/grey/black-colored background : 1
+precise, definite, dense lines : 1
+dark orange and black : 1
+beige, orange shades : 1
+monochrome green background : 1
+blue/yellow-colored background : 1
+6 text : 1
+dark tones, white tips : 1
+black/white-colored background : 1
+a text : 1
+blue/white colored background : 1
+green/yellow-colored background : 1
+precise, solid, dense lines : 1
+precise, solid, definite lines : 1
+brown shades and black element : 1
+gray scale, yellow touches : 1
+3 text : 1
+overlapping, irregular lines : 1
+partially disconnected, irregular lines : 1
+irregular, disconnected lines : 1
+marked, disconnected, overlapping lines : 1
+partially overlapping lines : 1
+overall light lines, in some areas more marked lines : 1
+marked, overlapping lines : 1
+overlapping, clean lines : 1
+light, irregular, partially overlapping lines : 1
+marked, partially disconnected lines : 1
+overlapping lines : 1
+overall straight, irregular lines : 1
+light, disconnected, irregular lines : 1
+irregular, partially overlapping lines : 1
+light, both irregular and straight lines : 1
+light, overlapping, irregular lines : 1
+disconnected, irregular lines : 1
+pink shades, dark pink : 1
+brownish, black and yellow shades : 1
+pale-green colored background : 1
+gray scale, white and red : 1
+brown, creamy shades : 1
+wavy lines : 1
+pink and purple : 1
+white and two illustration boxes background : 1
+text in top position : 1
+precise, squared lines : 1
+shades of purple background : 1
+precise squared lines : 1
+low color saturation, reflections : 1
+sketched lines : 1
+brown and creamy : 1
+purple shades background : 1
+orange, yellow and brown shades : 1
+blue sky background : 1
+uncertain lines : 1
+six gray boxes background : 1
+blue and white contour background : 1
+green color : 1
+white with objects background : 1
+colorful, brown dominance : 1
+black and yellow : 1
+gray scale with pink tips  : 1
+light-blue sky and green grass background : 1
+yellow and green background : 1
+blue sky and green pines background : 1
+precise curvy lines : 1
+3 instances : 1
+pale-yellow background : 1
+precise, thick and curvy lines : 1
+2 instances : 1
+green shades and pale-yellow background : 1
+low color saturation, light reflections : 1
+pale green background : 1
+white sky and green grass background : 1
+precise white thick lines : 1
+cream colored background : 1
+sandy brown background : 1
+thick uneven lines : 1
+red and orange shades : 1
+pink background : 1
+brown and teal shades : 1
+gray scale dominance, colorful : 1
+non-continuous lines : 1
+brown dominance, colorful : 1
+brown monochrome : 1
+creamy shades dominance : 1
+brown shades, bloncy, pink tips : 1
+different shades of blue tending to purple : 1
+white with blue, orange and green splashes of color : 1
+solid yet trembling bold black lines : 1
+some shades of red : 1
+edges just patches of colors : 1
+gray scale, with mixed colors : 1
+bland colors, purple shades : 1
+light gray on bricks wall : 1
+light yellow : 1
+black and white shades, brownish : 1
+red and white bricks : 1
+solid trembling bold black lines : 1
+orange monochrome : 1
+discrete text in right bottom : 1
+solid trembling lines : 1
+black shades, dark : 1
+blond shades, brownish : 1
+solid black bold lines : 1
+red color : 1
+discrete text in left bottom : 1
+white with shades of gray that tends to black on the bottom : 1
+blurred soft lines : 1
+light blue and light orange on gray floor : 1
+gray on the top part, light orange on the bottom part : 1
+blond and yellow shades : 1
+blue and light blue with brown and green on the bottom : 1
+solid bold black strokes : 1
+green, red, dark blue and dark purple : 1
+bland colors, yellow touch : 1
+white with light blue patches : 1
+yellow and red shades : 1
+white with pink flowers : 1
+red and pink dominance : 1
+red, blue, green, purple and orange patches of color : 1
+green leaves of different sizes with some shades of gray : 1
+solid yet trembling thin lines : 1
+creamy : 1
+confused patches of green, yellow and blue : 1
+green and light blue water, yellow terrain and orange and light blue sky : 1
+brown and yellow shades, orange : 1
+different shades of orange that fade to brown : 1
+solid yet trembling bold lines : 1
+mixed colors, black shades : 1
+dark orange with white and black rectangles : 1
+blue and black sky with clouds of some shades of gray : 1
+yellow circle on a pink to purple sky : 1
+white with a blue splash : 1
+cream-colored with yellow and orange : 1
+brown and white shades, black : 1
+orange on white : 1
+orange and creamy shades : 1
+dark purple : 1
+colorful, black element : 1
+cream-colored on wooden planks : 1
+soft trembling bold black lines : 1
+red dominance, black element : 1
+orange tending to black : 1
+red with black in the corners : 1
+solid thin black lines : 1
+orange and gray wall : 1
+red and yellow shades : 1
+bold lines : 1
+yellow with green and orange patches : 1
+solid bold trembling black lines : 1
+turquoi and orange dominance, white element : 1
+wooden wall, yellow : 1
+cold colors, mixed colors : 1
+gray with white lines bed sheet : 1
+solid thin gray lines : 1
+white with a dark orange frame : 1
+green and purple mountains, green grass and blue sky with white clouds : 1
+white and orange dominance : 1
+abstract green and blue shades : 1
+red, green, blue, yellow, orange patches : 1
+cold colors, blue shades : 1
+light blue with shades of white and gray : 1
+soft confused lines : 1
+black, brown, crea-colored and light blue rectangles : 1
+some shades of brown, white and gray splashes : 1
+soft bold lines : 1
+orange and blue shades : 1
+orange blue and pink patches of color : 1
+brownish and blond shades : 1
+soft red, gray, orange clouds : 1
+green grass and vegetation : 1
+gray scale, black element : 1
+blue, white and light brown : 1
+cloud of different shades of gray : 1
+gray and white sky, blue sea and green and brown terrain : 1
+bold soft lines : 1
+patches of different shades of green, blue, yellow and red that should resemble sky with trees bodies of water and grass : 1
+white and orange shades : 1
+dark blue water, blue sky with white clouds, orange hills : 1
+creamy dominance : 1
+green and yellow garden with pink flowers : 1
+blue and orange sky and white snow : 1
+yellow and gray colors : 1
+green grass and vegetation, blue sky with white and gray clouds : 1
+bucolic environment made of shades of green, blue white and black water, orange sky at dusk : 1
+light blue sky in a orange frame : 1
+blue sky and different shades of yellow tending to black. green grass : 1
+blurry soft lines : 1
+washed painting : 1
+light blue sky and water : 1
+brown frame on a dark red wall : 1
+green leaves : 1
+green and orange with patches of gray and dark red : 1
+shades of gray, white tub and greenish water : 1
+white thick edges : 1
+black with dark green and red lines : 1
+green grass with brown patches and a red and orange towel : 1
+green and yellow bucolic environment : 1
+brown and orange : 1
+gray sky with a village and light brown grass : 1
+solid strokes : 1
+solid decise lines : 1
+blue, red and white : 1
+solid bold trembling lines : 1
+black dominance, gray scale : 1
+dark yellow and red : 1
+brown and blue with patches of white and gray : 1
+old painting : 1
+room with a dark red carpet : 1
+light blue sky and cream-colored bricks : 1
+soft imprecise lines : 1
+green, white and blue patches of colors : 1
+gray with orange shades and brown on the bottom : 1
+cold colors, blue and purple dominance : 1
+patches of red, blue, yellow and green : 1
+different shades of green : 1
+different shades of red tending to black : 1
+dark blue sky with white and gray clouds, green and yellow grass on the bottom : 1
+mix of soft and solid lines : 1
+outdoor environment made of gray, yellow, brown and green : 1
+light violet : 1
+gray and white dominance : 1
+black circle with white background : 1
+bold black lines : 1
+black soft lines : 1
+black bold lines : 1
+pink monochrome : 1
+white with lines of gray : 1
+solit yet trembling lines : 1
+light blue dominance : 1
+shades of yellow : 1
+waves : 1
+soft yet trembling lines : 1
+white and shades of green : 1
+purple and gray shades : 1
+grey : 1
+discrete text : 1
+bold solid lines : 1
+creamy and orange shades, brownish : 1
+orange and white colors : 1
+orange and gray colors : 1
+white with shades of green : 1
+sparse text in bottom : 1
+pink and brown shades : 1
+pink and blue dominance, yellow tips : 1
+white with shades of pink : 1
+pink and sandy shades : 1
+dark blue and purple shades : 1
+brown and gray colors : 1
+colored with shades of green and white : 1
+pink and red colors : 1
+turquoise monochrome : 1
+sparse text in right side : 1
+white and pink : 1
+white with some shades of grey : 1
+light blue and green : 1
+colored with shades of gray : 1
+blue and shades of grey : 1
+black dominance, brown and white shades : 1
+pale green grass, pale blue sky, trees : 1
+black with shades of blue : 1
+black and light blue : 1
+pale brown grass : 1
+different shades of gray : 1
+grass, vegetation : 1
+white wall, light brown wooden floor and gray pillow : 1
+green vegetation and white sky : 1
+green vegetation, blue sky and white mountain : 1
+grau scale : 1
+blue sky with white clouds, gray and pale green vegetation : 1
+grey and light brown logs : 1
+river, trees : 1
+grass and a bush : 1
+pale blue sky with clouds, city : 1
+green tree and light green grass : 1
+white sky and vegetation : 1
+shadows, brown shades, gray scale : 1
+trees and a gray street : 1
+blue water, grass : 1
+light gray rocks : 1
+white sky and trees : 1
+light blue sky, green and brown vegetation : 1
+white sky and green vegetation : 1
+green and brown vegetation : 1
+light cream colored floor, trees and brown fence : 1
+gray trees and green vegetation : 1
+pale orange and brown rocky wall : 1
+light orange brick wall : 1
+green trees and green grass : 1
+light blue sky and brown/gray trees : 1
+barracks trees and iron fence : 1
+blue and white colors : 1
+black curtain and pale brown wooden planks : 1
+brown shades, white element : 1
+purple dominance, black element : 1
+red and black colors : 1
+newspapers : 1
+noisy floor : 1
+black and red colors : 1
+brown with shades of black and white : 1
+light brown dominance : 1
+brown curtain : 1
+white wall and brown wooden floor : 1
+light gray field : 1
+sky at dusk : 1
+blue truck and a house, grass : 1
+brown shades, orange : 1
+light blue and white sky : 1
+different shades of blue : 1
+wooden door and dark room : 1
+cream-colored with some shades of green : 1
+green grass field, pale blue sky and brown vegetation : 1
+blue sky, dark green grass : 1
+white sky and black trees : 1
+pale blue sky with pale orange shades and green grass : 1
+dark shades, brownish : 1
+blue sky and green tree : 1
+green trees and light blue sky : 1
+blue sky with white clouds, trees : 1
+blue sky with a white cloud and a green tree : 1
+pale blue sky with white clouds and trees : 1
+white shades, creamy : 1
+white colors, gray tips : 1
+light blue sky, white clouds : 1
+mid saturation, shadows : 1
+shadows, gray scale with golden spots : 1
+blue sky with shades of white, dark green trees and grass : 1
+light blue sky and green trees and grass : 1
+pale blue sky, grass, trees : 1
+light blue sky with white clouds, grass and bushes, red flowers around a fountain : 1
+blue sky, grass and trees : 1
+light blue sky, grass : 1
+white curtains on a window : 1
+dark cream-colored wall and bookshelves : 1
+white wall of a stair with dark gray bars : 1
+white wall with a painting : 1
+trees and bushes, a car and a building : 1
+different shades of brown : 1
+white wall and shelves : 1
+wall with pictures : 1
+grass and green bushes : 1
+dark cream office : 1
+dark gray wall : 1
+dark cream-colored room : 1
+dark cream colored wall : 1
+gray wall with shelves : 1
+blue and white on the upper zone, black and green in the lower zone : 1
+discrete signature in right bottom corner : 1
+green-colored surrounding the house, white with shades of blue on the upper zone : 1
+green with parts of red, purple and white on the lower right, white on the lower left, yellow with shades of blue on the upper zone : 1
+green-colored with parts of brown and red : 1
+black with yellow parts : 1
+green-colored with shades of gray on the lower zone and white on the upper zone : 1
+orange with shades of green and brown on the center zone : 1
+green with shades of yellow on the center zone, blue with shades of green on the upper zone, green with shades of yellow on the left zone, blue with shades of yellow and red on the lower zone : 1
+yellow with shades of green on the upper right zone,blue with shades of white on the left zone, green with shades of yellow on the lower right zone : 1
+green-colored with shades of red on the lower zone, blue-colored with shades of yellow and orange on the upper zone : 1
+no unrealistic : 1
+solid yellow lines : 1
+red-colored with shades of yellow : 1
+green-colored with parts of blue on the lower zone, white-colored with shades of blue on the upper zone : 1
+yellow-colored on the upper zone and red and green colored on the sides : 1
+yellow-colored on the upper zone, brown-colored with shades of yellow on the lower zone, green-colored on the right zone : 1
+white and red shades : 1
+orange-colored with shades of yellow and parts of gray on the lower zone, blue on the upper zone : 1
+blue-colored with shades of white on the upper zone, green colored with parts of blue, gray and white on the lower zone : 1
+intense solid black lines : 1
+brown-colored with shades of white on the lower and center zone, white on the upper zone : 1
+red-colored with shades of black and green : 1
+brown, orange, black shades : 1
+blue-colored with shades of white on the center zone, white-colored on the frame : 1
+black lines : 1
+red, green and yellow colored with a black cross on the center zone : 1
+brown-colored on the lower and upper zone, blue-colored on the center zone : 1
+black-colored on the upper zone, yello-colored with shades of red on the lower zone : 1
+black-colored with shades of green and purple : 1
+blue-colored with shades of brown : 1
+black precise lines : 1
+green, white, orange and blue colored on the lower zone, green-colored with shades of yellow on the rifgt zone, blue-colored with shades of white on the upper left zone : 1
+intense orange lines : 1
+gray scale with oranges edges : 1
+black-colored with a white frame : 1
+brown-colored with shades of red and parts of green and yellow on the center zone, white-colored with shades of blue and parts of green on the upper left zone, green-colored with parts of red, black and brown on the lower zone, yellow-colored on the upper right zone : 1
+black-colored with shades of blue and white : 1
+blue-colored with shades of white, green and red on the upper zone, red-colored on the lower left zone, yellow-colored with shades of yellow on the lower right zone : 1
+dense text  : 1
+blue-colored with shades of purple, red, green and yellow : 1
+red-colored with shades of brown and white stripes : 1
+orange and red shades dominance : 1
+blue-colored with shades of green and black and white parts on the left zone, brown-colored with shades of yellow and black and white parts on the right zone : 1
+neat black brush strokes : 1
+yellow-colored with shades of red : 1
+brown-colored : 1
+black, brown , white shades : 1
+None : 1
+signature in bottom right corner : 1
+brown-colored on the lower zone, green and light blue colored on the upper zone : 1
+blue and yellow colored : 1
+signature in bottom right side : 1
+yellow-colored with shdes of brown : 1
+intense and trembling lines : 1
+green-colored on the left zone, green and red colored on the right zone : 1
+red and orange colored with green parts : 1
+yellow-colored on the center and left zone, red-colored on the right zone, green, yellow and red colored on the lower zone : 1
+brown and blue colored with white parts on the lower zone, green-colored with shades of blue and red on the upper zone : 1
+white-colored with shades of gray : 1
+orange-colored with shades of blue and green : 1
+green and yellow colored with shades of red and blue : 1
+purple and creamy : 1
+yellow-colored with shades of green and purple : 1
+white-colored with shades of blue, green and yellow : 1
+green, red and brown colored on the lower zone, blue and green colored on the upper zone : 1
+black-colored with white parts : 1
+blue-colored with shades of white : 1
+yellow-colored with shades of blue : 1
+green and blue colored : 1
+pink dominance, blue tips : 1
+blue and red colored with shades of green : 1
+white-colored with blue, green and yellow parts : 1
+blue-colored with shades of yellow and a white frame : 1
+cream-colored with shades of gray : 1
+light blue, yellow and green colored : 1
+green-colored with shades of red, yellow and blue : 1
+white-colored with shades of red and yellow : 1
+definite black lines : 1
+gray-colored with shades of blue and a beige frame : 1
+green-colored with shades of yellow : 1
+yellow, green and black shades : 1
+red-colored on the lower zone, blue-colored with white parts on the center zone, red and blue colored on the upper zone : 1
+trembling brusg strokes : 1
+light blue colored : 1
+yellow, oranges and brown shades : 1
+yellow-colored with shades of green on the lower zone, green-colored with shades of yellow and gray parts on the upper zone : 1
+precise black lines : 1
+brown-colored on the lower zone, blue-colored with shades of brown on the center and upper zone : 1
+white-colored with orange parts : 1
+yellow-colored with white shades and a blue-colored with red and green shades part on the right zone : 1
+imprecise brush strokes : 1
+gray-colored with white shades : 1
+black, red, yellow, green, blue and purple colored : 1
+colorful, contrasting, red and blue shades : 1
+red-colored with shades of orange, black and yellow : 1
+yellow-colored with white shades : 1
+blue-colored on the lower zone, yellow-colored with shades of red on the upper zone : 1
+yellow-colored with shades of brown : 1
+cyan-colored with gray parts on the upper zone, brown-colored on the lower zone : 1
+red, yellow, blue and orange colored : 1
+five : 1
+yellow-colored with red shades : 1
+yellow-colored with shades of white on the lower left zone, purple-colored with shades of green and blue and yellow parts on the center and upper zone, blue-colored with shades of white on the left zone : 1
+white lines : 1
+brown shades, black and green elements : 1
+gray-colored with yellow and blue parts : 1
+skin shades on the left, black and white on the right  : 1
+white-colored with green parts on the left zone, gray-colored with white parts on the right zone : 1
+blue and white colored on the center zone, green-colored with red and yellow parts on the lower zone, gray-colored with yellow parts on the upper zone : 1
+brown and pink colored on the upper zone, brown and green colored on the center zone, brown-colored on the lower zone : 1
+white-colored with shades of blue on the center zone, green-colored on the left zone and red-colored on the right zone : 1
+blue and green colored : 1
+brown and green colored on the center zone, brown and blue colored on the upper zone, white colored on the lower zone : 1
+white and green colored : 1
+brown-colored on the right zone, green, blue and brown colored on the left zone : 1
+trembling and intense lines : 1
+brown and skin shades : 1
+gray-colored with shades of yellow : 1
+gray-colored with shades of black and white : 1
+sparse discrete text : 1
+reddish, gray scale : 1
+blue in the top part of the image and green in the lower zone level details : 1
+creamy and red shades : 1
+white in the top part of the image and green in the lower zone : 1
+gray and red shades : 1
+blue in the top part of the image and green in the lower zone : 1
+blue in the top part of the image, green in the lower zone and a yellow spot in the top left corner : 1
+yellow, blue and red shades : 1
+white with shadow of blue and yellow in the middle zone and blue with shadow of white in the top part : 1
+discrete text in top : 1
+white in the bottom part of the image and teal in the mid and top zone full of white spots : 1
+brownish, beige shades and black edges : 1
+yellow in the top right part purple in the left part and white with some green in the lower part : 1
+black shades, white tips : 1
+brown dominance, black tips : 1
+brown dominance, yellow tips  : 1
+white with a green circle in the middle : 1
+purple with shadow of white : 1
+brown shades, blond elements : 1
+reddish, white shades : 1
+white with a green circle : 1
+sparse-text : 1
+white, black bar at the bottom of the image : 1
+teal dominance, yellow shades : 1
+white dominance, black and brown tips : 1
+white on the upper zone and light-purple on the lower zone : 1
+definite  : 1
+white with a green circle in the lower zone : 1
+gray scale, dark gray : 1
+white at the edges and blue in the middle : 1
+white with blue frame : 1
+yellow shades, pink element : 1
+yellow and pink shades : 1
+yellow shades, green element : 1
+from the mid upper zone : 1
+yellow, white and blue colors : 1
+white and a blue circle : 1
+beige : 1
+blue-colored with shades of white on the upper zone, green and white colored on the lower zone : 1
+gray scale with brown wood color : 1
+blue-colored on the upper zone, green, white and gray colored on the lower zone : 1
+blue and green colored on the upper zone, green, white and gray colored on the lower zone : 1
+white dominance, creamy shades : 1
+light blue and green colored on the upper zone, brown and gray colored on the lower zone : 1
+blue and green colored on the upper zone, gray and green colored on the lower zone : 1
+gray scale, white shades : 1
+white and green colored on the upper zone, green and gray colored on the lower zone : 1
+white-colored with shades of blue and green parts on the left side : 1
+light blue in the upper zone, green and white in the lower zone : 1
+green in the lower zone, light blue and white in the upper zone : 1
+light blue and white in the upper zone, green in the middle and white in the lower zone : 1
+light blue in the upper zone, green on the sides and shades of gray in the lower zone : 1
+blue in the upper zone, green on the right and in the lower zone : 1
+shades of green and light blue in the upper zone : 1
+blue and white in the upper zone, shades of green and yellow and gray in the lower zone : 1
+dark tones, golden spots : 1
+blue in the upper zone, green and yellow in the lower zone : 1
+gray scale, golden spots : 1
+light blue and white in the upper zone, shades of green, gray and brown in the lower zone : 1
+shades of blue and green : 1
+green in the lower zone, blue and white in the upper zone : 1
+light blue in the upper zone, green in the lower zone : 1
+brown and reddish colors : 1
+brown, red and green colored : 1
+white and black colored : 1
+light gray : 1
+beige and black shades : 1
+white and gray sahdes : 1
+white and brown colored : 1
+back and dark brown shades : 1
+black colored : 1
+mid details : 1
+green and white colored on the upper zone, yellow colored on the lower zone : 1
+green colored : 1
+gray and green in the upper zone, shades of blue and green in the lower zone : 1
+green in the lower zone, white in the upper zone : 1
+brown with shades of greeh in the upper zone : 1
+blond, white shades : 1
+blue, gray and brown colored with a white and orange part : 1
+brown and green colored : 1
+darkt tones : 1
+green with shades of yellow and white : 1
+brown with shades of green : 1
+cream-colored with shades of pink and yellow on the left zone : 1
+blond shades, white tips : 1
+light brown in the lower zone, blue and white in the upper zone : 1
+green colored on the lower zone, green and white colored with shades of gray on the upper zone : 1
+blue colored on the upper zone, yellow colored on the lower zone : 1
+yellow colored on the lower zone, black and white colored on the upper zone : 1
+yellow and brown colored : 1
+yellow and green colored on the lower zone, blue colored on the upper zone : 1
+shades of green in the upper zone, light yellow in the lower zone : 1
+green in the upper zone, brown in the lower zone : 1
+green in the lower zone, light blue with shades of gray in the upper zone : 1
+light yellow in the lower zone, light blue in the upper zone : 1
+shades of gray in the lower zone, shades of yellow and orange and green in the upper zone : 1
+yellow, green and white colored : 1
+yellow and green colored : 1
+black colored on the lower zone, black and white colored on the upper zone : 1
+gray colored with shades of white on the upper zone, black colored on the lower zone : 1
+shades of yellow and gray : 1
+brown and yellow  shades : 1
+light brown with shades of gray : 1
+yellow, white and blue colored on the left, red, green, white and blue colored on the right : 1
+green and white colored : 1
+white colored on the left, green colored on the right : 1
+gray and white colored : 1
+green and brown colored on the lower zone, green and white colored on the upper zone : 1
+brown on the right zone and dark green on the left zone : 1
+white with shades of brown and black on the right : 1
+shades of orange, light blue and white : 1
+white with shades of orange, yellow, red and black in the upper zone : 1
+gray with shades of green : 1
+white in the upper zone and light blue in the lower zone : 1
+white and shades of brown in the right zone : 1
+white with shades of brown and gray : 1
+shades of white, gray, black and yellow : 1
+brown, orange, white, yellow and shades of light blue : 1
+white on the left zone and shades of gray, green and yellow on the right zone : 1
