@@ -33,11 +33,11 @@ To run the code you have to install all the required libraries listed in the "re
 For example, if you read:
 
 ```
-torch==1.4.0
+torch==1.10.1
 ```
 
 you have to execute the command:
 
 ```
-pip install torch==1.4.0
+pip install torch==1.10.1
 ```
