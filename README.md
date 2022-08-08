@@ -17,6 +17,9 @@ Then, you have to put the "outputs" folder into:
 ```
 
 # Fine-tuning
+This model is mostly based on the ECCV 2020 paper "Describing Textures using Natural Language".  
+More contents are shared on [the project webpage](https://people.cs.umass.edu/~chenyun/texture/).
+
 Code for training and evaluating baseline model are under:
 
 ```
